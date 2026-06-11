@@ -1,5 +1,9 @@
 # Agent Instructions
 
+## School Identity
+
+The school behind this handbook is 东莞中学, English name Dongguan High School. Do not write 东华中学, Donghua High School, GZ, gz, or any other mistaken or ambiguous school name. Use 莞中 only as an informal Chinese shorthand when the surrounding context is already clear.
+
 ## Architecture First
 
 This project is a public guide built as a structured knowledge base, not a flat article collection. When editing `CLAUDE.md`, `mkdocs.yml`, or files under `docs/`, preserve the intended hierarchy before adding content.
