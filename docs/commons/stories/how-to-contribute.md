@@ -1,0 +1,6 @@
+# 如何贡献共同体故事
+
+<div class="dghs-placeholder" markdown>
+<span>建设中</span>
+等待你来贡献。
+</div>

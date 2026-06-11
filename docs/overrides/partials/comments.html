@@ -1,0 +1,62 @@
+{% if page.meta.comments is not false %}
+<section class="dghs-discussion" aria-labelledby="comments">
+  <div class="dghs-discussion-head">
+    <p>Discussion</p>
+    <h2 id="comments">评论</h2>
+  </div>
+  <p class="dghs-discussion-note">
+    公开讨论区。请不要发布私人联系方式、敏感经历、未经核实的负面评价，或不适合公开转载的内容。
+  </p>
+  {% if config.extra.giscus.repo_id and config.extra.giscus.category_id %}
+  <div class="dghs-giscus" data-md-component="giscus">
+    <script src="https://giscus.app/client.js"
+      data-repo="{{ config.extra.giscus.repo }}"
+      data-repo-id="{{ config.extra.giscus.repo_id }}"
+      data-category="{{ config.extra.giscus.category }}"
+      data-category-id="{{ config.extra.giscus.category_id }}"
+      data-mapping="{{ config.extra.giscus.mapping | d('pathname') }}"
+      data-strict="{{ config.extra.giscus.strict | d('0') }}"
+      data-reactions-enabled="{{ config.extra.giscus.reactions_enabled | d('1') }}"
+      data-emit-metadata="0"
+      data-input-position="{{ config.extra.giscus.input_position | d('bottom') }}"
+      data-theme="light"
+      data-lang="{{ config.extra.giscus.lang | d('zh-CN') }}"
+      data-loading="{{ config.extra.giscus.loading | d('lazy') }}"
+      crossorigin="anonymous"
+      async>
+    </script>
+  </div>
+  <script>
+    (function () {
+      var themeFor = function () {
+        return document.body.getAttribute("data-md-color-scheme") === "slate" ? "dark_dimmed" : "light";
+      };
+      var applyTheme = function () {
+        var frame = document.querySelector("iframe.giscus-frame");
+        if (!frame) return;
+        frame.contentWindow.postMessage({
+          giscus: { setConfig: { theme: themeFor() } }
+        }, "https://giscus.app");
+      };
+      var boot = function () {
+        var script = document.querySelector(".dghs-giscus script");
+        if (script) script.setAttribute("data-theme", themeFor());
+        applyTheme();
+      };
+      boot();
+      new MutationObserver(boot).observe(document.body, {
+        attributes: true,
+        attributeFilter: ["data-md-color-scheme"]
+      });
+      document.addEventListener("DOMContentLoaded", boot);
+    })();
+  </script>
+  {% else %}
+  <div class="dghs-discussion-setup">
+    <strong>评论区待接入</strong>
+    <span>仓库创建并开启 Discussions 后，在 <code>mkdocs.yml</code> 填入 <code>repo_id</code> 与 <code>category_id</code> 即可启用。</span>
+    <a href="{{ 'commons/governance/comments/' | url }}">查看接入规则</a>
+  </div>
+  {% endif %}
+</section>
+{% endif %}

@@ -1,0 +1,475 @@
+site_name: 莞中人飞跃手册
+site_description: 东莞中学校友共建的大学公开指南
+site_author: 莞言瓜语
+site_url: https://huashanjian.github.io/feiyue-shouce/
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  language: zh
+  logo: assets/logo/dongguan-high-school-handbook-mark.svg
+  favicon: assets/logo/dongguan-high-school-handbook-mark.svg
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
+    - navigation.path
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - navigation.instant.progress
+    - toc.follow
+    - search.highlight
+    - search.share
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: 切换暗色模式
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: 切换亮色模式
+  font:
+    text: Noto Sans SC
+    code: JetBrains Mono
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  giscus:
+    repo: huashanjian/feiyue-shouce
+    repo_id: R_kgDOS3L50A
+    category: General
+    category_id: DIC_kwDOS3L50M4C-7rn
+    mapping: pathname
+    strict: "0"
+    reactions_enabled: "1"
+    input_position: bottom
+    lang: zh-CN
+    loading: lazy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - meta
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.blocks.caption
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+
+nav:
+  - 首页: index.md
+  - 开始阅读:
+      - start-here/index.md
+      - 思维惯性:
+          - start-here/mindsets/index.md
+          - 高考惯性: start-here/mindsets/gaokao-inertia/index.md
+          - 被安排惯性: start-here/mindsets/passive-learning/index.md
+          - 只看绩点: start-here/mindsets/grade-only-thinking/index.md
+          - 信息素养: start-here/mindsets/information-literacy/index.md
+          - 如何求助: start-here/mindsets/asking-for-help/index.md
+      - 先问自己的问题:
+          - start-here/first-questions/index.md
+          - 我想要什么: start-here/first-questions/what-do-i-want/index.md
+          - 现在能尝试什么: start-here/first-questions/what-can-i-try-now/index.md
+          - 什么应该停止: start-here/first-questions/what-should-i-stop-doing/index.md
+          - 如何使用校友建议: start-here/first-questions/how-to-use-alumni-advice/index.md
+      - 阅读路线:
+          - start-here/reading-routes/index.md
+          - 高中生: start-here/reading-routes/high-school-students/index.md
+          - 大一新生: start-here/reading-routes/college-freshmen/index.md
+          - 想转专业的人: start-here/reading-routes/major-switchers/index.md
+          - 临近毕业的人: start-here/reading-routes/graduating-students/index.md
+  - 志愿填报:
+      - admissions/index.md
+      - 方法论:
+          - admissions/methodology/index.md
+          - 志愿决策原则: admissions/methodology/principles.md
+      - 自我评估:
+          - admissions/self-assessment/index.md
+          - 优先级排序: admissions/self-assessment/priorities.md
+          - 硬约束: admissions/self-assessment/constraints.md
+          - 风险承受: admissions/self-assessment/risk-tolerance.md
+      - 信息搜集:
+          - admissions/information/index.md
+          - 官方信息源: admissions/information/official-sources.md
+          - 分数排位与线差: admissions/information/score-rank.md
+          - 校友信息怎么听: admissions/information/alumni-signals.md
+      - 决策模型:
+          - admissions/decision-models/index.md
+          - 专业还是学校: admissions/decision-models/major-vs-school.md
+          - 城市和排名: admissions/decision-models/city-vs-ranking.md
+          - 冲稳保策略: admissions/decision-models/reach-match-safety.md
+          - 调剂与转专业: admissions/decision-models/major-reassignment.md
+          - 隐性成本: admissions/decision-models/hidden-costs.md
+      - 工作流:
+          - admissions/workflows/index.md
+          - 出分前: admissions/workflows/before-score.md
+          - 出分后: admissions/workflows/after-score.md
+          - 最终检查: admissions/workflows/final-checklist.md
+          - 家庭讨论: admissions/workflows/family-discussion.md
+      - 经验观点:
+          - admissions/perspectives/index.md
+          - 如何贡献: admissions/perspectives/how-to-contribute.md
+  - 专业认知:
+      - majors/index.md
+      - 方法与分类:
+          - 如何理解专业: majors/methodology/index.md
+          - 必须问的问题: majors/methodology/what-to-ask.md
+          - 信息来源判断: majors/methodology/evidence-sources.md
+          - 相邻专业比较: majors/methodology/comparison-methods.md
+          - 分类地图: majors/taxonomy/index.md
+          - 学科大类总图: majors/taxonomy/disciplines-map.md
+          - 专业群如何形成: majors/taxonomy/major-groups.md
+          - 命名的坑: majors/taxonomy/naming-traps.md
+      - 学科大类:
+          - majors/domains/index.md
+          - 工科:
+              - majors/domains/engineering/index.md
+              - 工科分类地图:
+                  - majors/domains/engineering/map/index.md
+                  - 信息与计算: majors/domains/engineering/map/information-computing/index.md
+                  - 机械与能源: majors/domains/engineering/map/mechanical-energy/index.md
+                  - 土木与环境: majors/domains/engineering/map/civil-environment/index.md
+                  - 材料与化工: majors/domains/engineering/map/materials-chemical/index.md
+              - 适合谁:
+                  - majors/domains/engineering/fit/index.md
+                  - 优势信号: majors/domains/engineering/fit/strengths/index.md
+                  - 风险信号: majors/domains/engineering/fit/risk-signals/index.md
+              - 常见误解: majors/domains/engineering/misconceptions/index.md
+              - 专业群:
+                  - 电子信息与计算机:
+                      - majors/domains/engineering/eecs/index.md
+                      - 看懂这个专业群:
+                          - majors/domains/engineering/eecs/orientation/index.md
+                          - 内部地图: majors/domains/engineering/eecs/orientation/map/index.md
+                          - 相邻比较: majors/domains/engineering/eecs/orientation/comparisons/index.md
+                          - 课程结构: majors/domains/engineering/eecs/orientation/curriculum/index.md
+                          - 常见误解: majors/domains/engineering/eecs/orientation/misconceptions/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/eecs/programs/index.md
+                          - 计算机科学: majors/domains/engineering/eecs/programs/computer-science/index.md
+                          - 软件工程: majors/domains/engineering/eecs/programs/software-engineering/index.md
+                          - 电子信息: majors/domains/engineering/eecs/programs/electronic-information/index.md
+                          - 人工智能: majors/domains/engineering/eecs/programs/artificial-intelligence/index.md
+                      - 方向地图:
+                          - majors/domains/engineering/eecs/fields/index.md
+                          - 如何贡献: majors/domains/engineering/eecs/fields/how-to-contribute.md
+                          - AI 与数据智能: majors/domains/engineering/eecs/fields/ai-data-intelligence/index.md
+                          - 软件系统: majors/domains/engineering/eecs/fields/software-systems/index.md
+                          - 安全与隐私: majors/domains/engineering/eecs/fields/security-privacy/index.md
+                          - 硬件嵌入式与物理系统: majors/domains/engineering/eecs/fields/hardware-embedded-physical/index.md
+                          - 人机媒体交互: majors/domains/engineering/eecs/fields/human-media-interaction/index.md
+                          - 理论基础: majors/domains/engineering/eecs/fields/theory-foundations/index.md
+                          - 领域计算: majors/domains/engineering/eecs/fields/domain-computing/index.md
+                      - 基础能力:
+                          - majors/domains/engineering/eecs/foundations/index.md
+                          - 数学: majors/domains/engineering/eecs/foundations/mathematics/index.md
+                          - 编程: majors/domains/engineering/eecs/foundations/programming/index.md
+                          - 计算机系统: majors/domains/engineering/eecs/foundations/computer-systems/index.md
+                          - 电子与信号: majors/domains/engineering/eecs/foundations/electronics-signals/index.md
+                          - 工具与实践: majors/domains/engineering/eecs/foundations/tools-practices/index.md
+                      - 专业去向:
+                          - majors/domains/engineering/eecs/outcomes/index.md
+                          - 产业岗位: majors/domains/engineering/eecs/outcomes/industry-roles/index.md
+                          - 深造路径: majors/domains/engineering/eecs/outcomes/graduate-study/index.md
+                          - 研究路径: majors/domains/engineering/eecs/outcomes/research-paths/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/eecs/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/eecs/perspectives/how-to-contribute.md
+                  - 机械与自动化: majors/domains/engineering/mechanical-automation/index.md
+                  - 能源动力: majors/domains/engineering/energy-power/index.md
+                  - 材料: majors/domains/engineering/materials/index.md
+                  - 化工与制药: majors/domains/engineering/chemical-pharmaceutical/index.md
+                  - 土木建筑: majors/domains/engineering/civil-architecture/index.md
+                  - 水利环境与安全: majors/domains/engineering/water-environment-safety/index.md
+                  - 交通运输: majors/domains/engineering/transportation/index.md
+                  - 航空航天与海洋: majors/domains/engineering/aerospace-marine/index.md
+                  - 地矿测绘: majors/domains/engineering/geoscience-mining/index.md
+                  - 生物医学工程: majors/domains/engineering/biomedical-engineering/index.md
+                  - 工业与系统工程: majors/domains/engineering/industrial-systems/index.md
+          - 理科: majors/domains/science/index.md
+          - 医学: majors/domains/medicine/index.md
+          - 农林与环境: majors/domains/agriculture/index.md
+          - 经管与经济: majors/domains/business-economics-management/index.md
+          - 法政: majors/domains/law-politics/index.md
+          - 人文学科: majors/domains/humanities/index.md
+          - 传播与媒体: majors/domains/communication-media/index.md
+          - 教育与体育: majors/domains/education-sports/index.md
+          - 艺术与设计: majors/domains/arts-design/index.md
+          - 交叉学科: majors/domains/interdisciplinary/index.md
+      - 个人视角:
+          - majors/perspectives/index.md
+          - 如何贡献: majors/perspectives/how-to-contribute.md
+  - 院校选择:
+      - universities/index.md
+      - 如何读懂大学:
+          - universities/methodology/index.md
+          - 必须问的问题: universities/methodology/what-to-ask.md
+          - 信息来源判断: universities/methodology/evidence-sources.md
+          - 如何比较大学: universities/methodology/comparison-methods.md
+      - 判断维度:
+          - universities/dimensions/index.md
+          - 城市与区域: universities/dimensions/city-and-region/index.md
+          - 学术生态: universities/dimensions/academic-ecosystem/index.md
+          - 同伴群体: universities/dimensions/peer-group/index.md
+          - 校园生活: universities/dimensions/campus-life/index.md
+          - 就业资源: universities/dimensions/career-resources/index.md
+          - 深造资源: universities/dimensions/further-study-resources/index.md
+      - 地区与城市:
+          - universities/regions/index.md
+          - 粤港澳大湾区: universities/regions/greater-bay-area/index.md
+          - 长三角: universities/regions/yangtze-river-delta/index.md
+          - 京津地区: universities/regions/beijing-tianjin/index.md
+          - 境外地区: universities/regions/overseas/index.md
+      - 院校档案:
+          - universities/schools/index.md
+          - 中山大学:
+              - universities/schools/sysu/index.md
+              - 判断维度: universities/schools/sysu/dimensions/index.md
+              - 专业与学院: universities/schools/sysu/programs/index.md
+              - 招生语境: universities/schools/sysu/admissions-context/index.md
+              - 个人视角: universities/schools/sysu/perspectives/index.md
+          - 华南理工大学:
+              - universities/schools/scut/index.md
+              - 判断维度: universities/schools/scut/dimensions/index.md
+              - 专业与学院: universities/schools/scut/programs/index.md
+              - 招生语境: universities/schools/scut/admissions-context/index.md
+              - 个人视角: universities/schools/scut/perspectives/index.md
+          - 暨南大学:
+              - universities/schools/jnu/index.md
+              - 判断维度: universities/schools/jnu/dimensions/index.md
+              - 专业与学院: universities/schools/jnu/programs/index.md
+              - 招生语境: universities/schools/jnu/admissions-context/index.md
+              - 个人视角: universities/schools/jnu/perspectives/index.md
+          - 华南师范大学:
+              - universities/schools/scnu/index.md
+              - 判断维度: universities/schools/scnu/dimensions/index.md
+              - 专业与学院: universities/schools/scnu/programs/index.md
+              - 招生语境: universities/schools/scnu/admissions-context/index.md
+              - 个人视角: universities/schools/scnu/perspectives/index.md
+          - 广东外语外贸大学:
+              - universities/schools/gdufs/index.md
+              - 判断维度: universities/schools/gdufs/dimensions/index.md
+              - 专业与学院: universities/schools/gdufs/programs/index.md
+              - 招生语境: universities/schools/gdufs/admissions-context/index.md
+              - 个人视角: universities/schools/gdufs/perspectives/index.md
+          - 深圳大学:
+              - universities/schools/szu/index.md
+              - 判断维度: universities/schools/szu/dimensions/index.md
+              - 专业与学院: universities/schools/szu/programs/index.md
+              - 招生语境: universities/schools/szu/admissions-context/index.md
+              - 个人视角: universities/schools/szu/perspectives/index.md
+      - 院校个人视角:
+          - universities/perspectives/index.md
+          - 如何贡献: universities/perspectives/how-to-contribute.md
+  - 大学生活:
+      - campus-life/index.md
+      - 学业制度:
+          - campus-life/academic-system/index.md
+          - 选课与退课: campus-life/academic-system/course-selection/index.md
+          - GPA 与排名: campus-life/academic-system/gpa-and-ranking/index.md
+          - 考试与补救: campus-life/academic-system/exams-and-recovery/index.md
+          - 转专业辅修与双学位: campus-life/academic-system/transfer-minor-double-degree/index.md
+          - 毕业要求: campus-life/academic-system/graduation-requirements/index.md
+      - 学习方式:
+          - campus-life/learning-workflow/index.md
+          - 自学路线: campus-life/learning-workflow/self-learning/index.md
+          - 笔记与复习: campus-life/learning-workflow/note-and-review/index.md
+          - 时间与精力: campus-life/learning-workflow/time-and-energy/index.md
+          - 信息搜索: campus-life/learning-workflow/information-search/index.md
+          - 工具链: campus-life/learning-workflow/tools/index.md
+      - 机会系统:
+          - campus-life/opportunities/index.md
+          - 科研与课题组: campus-life/opportunities/research-projects/index.md
+          - 竞赛与项目: campus-life/opportunities/competitions/index.md
+          - 实习与实践: campus-life/opportunities/internships-and-practice/index.md
+          - 交换暑校与暑研: campus-life/opportunities/exchange-and-summer-programs/index.md
+          - 奖助与经费: campus-life/opportunities/scholarships-and-funding/index.md
+      - 人与组织:
+          - campus-life/people-and-groups/index.md
+          - 同学与室友: campus-life/people-and-groups/classmates-and-roommates/index.md
+          - 社团与学生组织: campus-life/people-and-groups/clubs-and-student-organizations/index.md
+          - 导师与前辈: campus-life/people-and-groups/mentors-and-seniors/index.md
+          - 合作与冲突: campus-life/people-and-groups/teamwork-and-conflict/index.md
+          - 如何求助: campus-life/people-and-groups/asking-for-help/index.md
+      - 身心和现实生活:
+          - campus-life/wellbeing-and-practical-life/index.md
+          - 心理健康: campus-life/wellbeing-and-practical-life/mental-health/index.md
+          - 金钱与预算: campus-life/wellbeing-and-practical-life/money/index.md
+          - 住宿与校园服务: campus-life/wellbeing-and-practical-life/housing-and-campus-services/index.md
+          - 健康与安全: campus-life/wellbeing-and-practical-life/health-and-safety/index.md
+          - 家庭沟通: campus-life/wellbeing-and-practical-life/family-communication/index.md
+      - 失误和重新选择:
+          - campus-life/failure-and-reorientation/index.md
+          - 落后时怎么办: campus-life/failure-and-reorientation/falling-behind/index.md
+          - 倦怠: campus-life/failure-and-reorientation/burnout/index.md
+          - 专业或学校不合适: campus-life/failure-and-reorientation/wrong-major-or-school/index.md
+          - 申请或求职失败: campus-life/failure-and-reorientation/failed-application-or-job-search/index.md
+          - 重建计划: campus-life/failure-and-reorientation/rebuilding-a-plan/index.md
+  - 发展路径:
+      - pathways/index.md
+      - 规划方法:
+          - pathways/methodology/index.md
+          - 自我定位: pathways/methodology/self-positioning/index.md
+          - 准备节奏: pathways/methodology/timeline/index.md
+          - 路径权衡: pathways/methodology/tradeoffs/index.md
+          - 决策节点: pathways/methodology/decision-points/index.md
+      - 深造:
+          - pathways/further-study/index.md
+          - 先选路径:
+              - pathways/further-study/choosing-paths/index.md
+              - 保研还是考研: pathways/further-study/choosing-paths/recommendation-vs-exam/index.md
+              - 境内还是境外: pathways/further-study/choosing-paths/domestic-vs-overseas/index.md
+              - 硕士还是博士: pathways/further-study/choosing-paths/master-vs-phd/index.md
+              - 成本与风险: pathways/further-study/choosing-paths/costs-and-risks/index.md
+          - 保研:
+              - pathways/further-study/recommendation/index.md
+              - 保研资格: pathways/further-study/recommendation/eligibility/index.md
+              - 保研准备: pathways/further-study/recommendation/preparation/index.md
+              - 夏令营: pathways/further-study/recommendation/summer-camps/index.md
+              - 院校选择: pathways/further-study/recommendation/school-selection/index.md
+              - 保研面试: pathways/further-study/recommendation/interviews/index.md
+              - 保研材料: pathways/further-study/recommendation/documents/index.md
+              - 个人视角: pathways/further-study/recommendation/perspectives/index.md
+          - 考研:
+              - pathways/further-study/entrance-exam/index.md
+              - 考研择校: pathways/further-study/entrance-exam/target-selection/index.md
+              - 考试科目: pathways/further-study/entrance-exam/exam-subjects/index.md
+              - 备考时间线: pathways/further-study/entrance-exam/preparation-timeline/index.md
+              - 二战与调剂: pathways/further-study/entrance-exam/retake-and-adjustment/index.md
+              - 复试: pathways/further-study/entrance-exam/reexamination/index.md
+              - 个人视角: pathways/further-study/entrance-exam/perspectives/index.md
+          - 境外申请:
+              - pathways/further-study/overseas/index.md
+              - 申请地区: pathways/further-study/overseas/regions/index.md
+              - 项目类型: pathways/further-study/overseas/program-types/index.md
+              - 申请材料: pathways/further-study/overseas/application-materials/index.md
+              - 资金与奖学金: pathways/further-study/overseas/funding/index.md
+              - 申请时间线: pathways/further-study/overseas/timeline/index.md
+              - 个人视角: pathways/further-study/overseas/perspectives/index.md
+          - 博士路径:
+              - pathways/further-study/doctoral-paths/index.md
+              - 直博: pathways/further-study/doctoral-paths/direct-phd/index.md
+              - 硕转博: pathways/further-study/doctoral-paths/master-to-phd/index.md
+              - 导师选择: pathways/further-study/doctoral-paths/supervisors/index.md
+              - 研究匹配: pathways/further-study/doctoral-paths/research-fit/index.md
+          - 间隔年:
+              - pathways/further-study/gap-year/index.md
+              - 为什么间隔: pathways/further-study/gap-year/reasons/index.md
+              - 间隔年规划: pathways/further-study/gap-year/planning/index.md
+              - 间隔年风险: pathways/further-study/gap-year/risks/index.md
+              - 个人视角: pathways/further-study/gap-year/perspectives/index.md
+      - 求职:
+          - pathways/career/index.md
+          - 方向判断:
+              - pathways/career/orientation/index.md
+              - 要不要先就业: pathways/career/orientation/choosing-work/index.md
+              - 行业地图: pathways/career/orientation/industry-map/index.md
+              - 求职节奏: pathways/career/orientation/timing/index.md
+              - 求职约束: pathways/career/orientation/constraints/index.md
+          - 实习:
+              - pathways/career/internship/index.md
+              - 第一份实习: pathways/career/internship/first-internship/index.md
+              - 日常实习: pathways/career/internship/daily-internship/index.md
+              - 暑期实习: pathways/career/internship/summer-internship/index.md
+              - 转正: pathways/career/internship/return-offer/index.md
+              - 个人视角: pathways/career/internship/perspectives/index.md
+          - 正式求职:
+              - pathways/career/job-search/index.md
+              - 校园招聘: pathways/career/job-search/campus-recruiting/index.md
+              - 社会招聘: pathways/career/job-search/social-recruiting/index.md
+              - 国企与事业单位: pathways/career/job-search/state-owned-and-public/index.md
+              - 公务员: pathways/career/job-search/civil-service/index.md
+              - 海外求职: pathways/career/job-search/overseas-job-search/index.md
+          - 申请材料:
+              - pathways/career/application-materials/index.md
+              - 简历: pathways/career/application-materials/resume/index.md
+              - 作品集: pathways/career/application-materials/portfolio/index.md
+              - 求职信: pathways/career/application-materials/cover-letter/index.md
+              - 在线测评: pathways/career/application-materials/online-assessment/index.md
+          - 面试:
+              - pathways/career/interviews/index.md
+              - 行为面试: pathways/career/interviews/behavioral/index.md
+              - 群面: pathways/career/interviews/group-interview/index.md
+              - 案例面试: pathways/career/interviews/case/index.md
+              - 技术面试: pathways/career/interviews/technical/index.md
+          - 行业方向:
+              - pathways/career/industries/index.md
+              - 科技与互联网: pathways/career/industries/technology-internet/index.md
+              - 金融与咨询: pathways/career/industries/finance-consulting/index.md
+              - 公共部门: pathways/career/industries/public-sector/index.md
+              - 教育与媒体: pathways/career/industries/education-media/index.md
+              - 制造与能源: pathways/career/industries/manufacturing-energy/index.md
+              - 医疗与生物科技: pathways/career/industries/healthcare-biotech/index.md
+          - 入职过渡:
+              - pathways/career/workplace-transition/index.md
+              - Offer 谈判: pathways/career/workplace-transition/offer-negotiation/index.md
+              - 入职: pathways/career/workplace-transition/onboarding/index.md
+              - 工作的第一年: pathways/career/workplace-transition/first-year/index.md
+          - 求职个人视角: pathways/career/perspectives/index.md
+      - 下一站个人视角:
+          - pathways/perspectives/index.md
+          - 如何贡献: pathways/perspectives/how-to-contribute.md
+  - 校友案例:
+      - cases/index.md
+      - 如何提交案例: cases/how-to-contribute.md
+      - 案例库: cases/entries/index.md
+      - 索引:
+          - cases/indexes/index.md
+          - 按莞中届别: cases/indexes/by-class-year/index.md
+          - 按大学: cases/indexes/by-university/index.md
+          - 按专业: cases/indexes/by-major/index.md
+          - 按路径: cases/indexes/by-pathway/index.md
+          - 按最终去向: cases/indexes/by-destination/index.md
+          - 按关键词: cases/indexes/by-keywords/index.md
+      - 案例模板:
+          - cases/templates/index.md
+          - 完整路径案例: cases/templates/full-path-case.md
+          - 访谈式案例: cases/templates/interview-style-case.md
+  - 共用资料:
+      - commons/index.md
+      - 共同体故事:
+          - commons/stories/index.md
+          - 如何贡献: commons/stories/how-to-contribute.md
+      - 常用资源: commons/resources/index.md
+      - 注册表:
+          - commons/registries/index.md
+          - 大学代码: commons/registries/universities.md
+          - 专业代码: commons/registries/majors.md
+          - 路径代码: commons/registries/pathways.md
+          - 关键词: commons/registries/keywords.md
+      - 治理:
+          - commons/governance/index.md
+          - 贡献规则: commons/governance/contribution-rules.md
+          - 评论规则: commons/governance/comments.md
+          - 图片与附件规则: commons/governance/media-assets/index.md
+      - 贡献者: commons/contributors.md

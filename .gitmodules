@@ -1,0 +1,75 @@
+[submodule "references/SUSTech-Application"]
+	path = references/sources/SUSTech-Application
+	url = https://github.com/SUSTech-Application/SUSTechapplication.git
+[submodule "references/SZU-FeiYue"]
+	path = references/sources/SZU-FeiYue
+	url = https://github.com/SZU-FeiYue/docs.git
+[submodule "references/NWU-career-plan"]
+	path = references/sources/NWU-career-plan
+	url = https://github.com/nwuzmedoutlook/career-plan.git
+[submodule "references/SurviveSJTUManual"]
+	path = references/sources/SurviveSJTUManual
+	url = https://github.com/SurviveSJTU/SurviveSJTUManual.git
+[submodule "references/THU-feiyue-docs"]
+	path = references/sources/THU-feiyue-docs
+	url = https://github.com/THU-feiyue/docs.git
+[submodule "references/SJTU-Application"]
+	path = references/sources/SJTU-Application
+	url = https://github.com/SurviveSJTU/SJTU-Application.git
+[submodule "references/SCUT-CS-baoyan"]
+	path = references/sources/SCUT-CS-baoyan
+	url = https://github.com/fjchange/SCUT_CS_baoyan.git
+[submodule "references/HUST-EE-feiyue"]
+	path = references/sources/HUST-EE-feiyue
+	url = https://github.com/LHYi/Feiyue-for-ECE.git
+[submodule "references/HNU-fly-book"]
+	path = references/sources/HNU-fly-book
+	url = https://github.com/juwentao/HNU-fly-book.git
+[submodule "references/ECUST-Leap"]
+	path = references/sources/ECUST-Leap
+	url = https://github.com/ECUST-Leap/ecust-leap.github.io.git
+[submodule "references/AHU-Impart-Inherit"]
+	path = references/sources/AHU-Impart-Inherit
+	url = https://github.com/AHUer-LeapLap/Impart-Inherit.git
+[submodule "references/DUT-overseas"]
+	path = references/sources/DUT-overseas
+	url = https://github.com/alexedinburgh/dutOverseas.git
+[submodule "references/Hainanu-Application"]
+	path = references/sources/Hainanu-Application
+	url = https://github.com/Hainanu-Application/Hainanu-Application.github.io.git
+[submodule "references/Tongji-interview"]
+	path = references/sources/Tongji-interview
+	url = https://github.com/wenjunBZ/RushForOffer.git
+[submodule "references/HENU-CS-Survival"]
+	path = references/sources/HENU-CS-Survival
+	url = https://github.com/HENU-CS/SurvivalHandbook.git
+[submodule "references/XJTLU-wiki"]
+	path = references/sources/XJTLU-wiki
+	url = https://github.com/awesome-xjtlu/wiki.git
+[submodule "references/SICNU-wiki"]
+	path = references/sources/SICNU-wiki
+	url = https://github.com/SICNU-Application/wiki-SICNU.git
+[submodule "references/Fudan-Math-Flight"]
+	path = references/sources/Fudan-Math-Flight
+	url = https://github.com/iwannabethe/Flight-Manual-FudanSMS.git
+[submodule "references/XJTU-feiyue"]
+	path = references/sources/XJTU-feiyue
+	url = https://github.com/eeyes-net/feiyue-2011-05.git
+[submodule "references/FLY-NJTech"]
+	path = references/sources/FLY-NJTech
+	url = https://github.com/yaoshun123/FLY_NJTech.git
+[submodule "references/SHU-fly"]
+	path = references/sources/SHU-fly
+	url = https://github.com/shuosc/fly.git
+[submodule "references/HFUT-baoyan"]
+	path = references/sources/HFUT-baoyan
+	url = https://github.com/PhelixChen/baoyan.git
+[submodule "references/sources/HUST-CS-career"]
+	path = references/sources/HUST-CS-career
+	url = https://github.com/heptagonhust/career_plan.git
+[submodule "references/sources/CS-BAOYAN-Wiki"]
+	path = references/sources/CS-BAOYAN-Wiki
+	url = https://github.com/CS-BAOYAN/CS-BAOYAN-Wiki.git
+[submodule "references/sources/cs-self-learning"]
+	path = references/sources/cs-self-learning
+	url = https://github.com/PKUFlyingPig/cs-self-learning.git

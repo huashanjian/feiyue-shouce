@@ -1,0 +1,8 @@
+.venv/
+site/
+.playwright-mcp/
+.mkdocs-serve*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
