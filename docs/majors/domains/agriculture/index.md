@@ -4,8 +4,9 @@
 <span>建设中</span>等待你来贡献
 </div>
 
-<div class="dghs-link-list" markdown>
+这里作为农林与环境专业群的统一入口。适合谁、常见误解等横向判断放在左侧导航中，避免和专业群入口混在一起。
 
+<div class="dghs-link-list" markdown>
 
 [植物生产](plant-production/index.md)
 

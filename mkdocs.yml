@@ -202,7 +202,13 @@ nav:
                   - 机械与自动化:
                       - majors/domains/engineering/mechanical-automation/index.md
                       - 看懂这个专业群: majors/domains/engineering/mechanical-automation/orientation/index.md
-                      - 具体专业: majors/domains/engineering/mechanical-automation/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/mechanical-automation/programs/index.md
+                          - 机械工程: majors/domains/engineering/mechanical-automation/programs/mechanical-engineering/index.md
+                          - 机械设计制造及其自动化: majors/domains/engineering/mechanical-automation/programs/mechanical-design-manufacturing-automation/index.md
+                          - 自动化: majors/domains/engineering/mechanical-automation/programs/automation/index.md
+                          - 机器人工程: majors/domains/engineering/mechanical-automation/programs/robotics-engineering/index.md
+                          - 智能制造工程: majors/domains/engineering/mechanical-automation/programs/intelligent-manufacturing-engineering/index.md
                       - 方向地图: majors/domains/engineering/mechanical-automation/fields/index.md
                       - 基础能力: majors/domains/engineering/mechanical-automation/foundations/index.md
                       - 专业去向: majors/domains/engineering/mechanical-automation/outcomes/index.md
@@ -212,7 +218,12 @@ nav:
                   - 能源动力:
                       - majors/domains/engineering/energy-power/index.md
                       - 看懂这个专业群: majors/domains/engineering/energy-power/orientation/index.md
-                      - 具体专业: majors/domains/engineering/energy-power/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/energy-power/programs/index.md
+                          - 能源与动力工程: majors/domains/engineering/energy-power/programs/energy-power-engineering/index.md
+                          - 新能源科学与工程: majors/domains/engineering/energy-power/programs/new-energy-science-engineering/index.md
+                          - 储能科学与工程: majors/domains/engineering/energy-power/programs/energy-storage-science-engineering/index.md
+                          - 核工程与核技术: majors/domains/engineering/energy-power/programs/nuclear-engineering-technology/index.md
                       - 方向地图: majors/domains/engineering/energy-power/fields/index.md
                       - 基础能力: majors/domains/engineering/energy-power/foundations/index.md
                       - 专业去向: majors/domains/engineering/energy-power/outcomes/index.md
@@ -222,7 +233,12 @@ nav:
                   - 材料:
                       - majors/domains/engineering/materials/index.md
                       - 看懂这个专业群: majors/domains/engineering/materials/orientation/index.md
-                      - 具体专业: majors/domains/engineering/materials/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/materials/programs/index.md
+                          - 材料科学与工程: majors/domains/engineering/materials/programs/materials-science-engineering/index.md
+                          - 高分子材料与工程: majors/domains/engineering/materials/programs/polymer-materials-engineering/index.md
+                          - 金属材料工程: majors/domains/engineering/materials/programs/metallic-materials-engineering/index.md
+                          - 新能源材料与器件: majors/domains/engineering/materials/programs/new-energy-materials-devices/index.md
                       - 方向地图: majors/domains/engineering/materials/fields/index.md
                       - 基础能力: majors/domains/engineering/materials/foundations/index.md
                       - 专业去向: majors/domains/engineering/materials/outcomes/index.md
@@ -232,7 +248,12 @@ nav:
                   - 化工与制药:
                       - majors/domains/engineering/chemical-pharmaceutical/index.md
                       - 看懂这个专业群: majors/domains/engineering/chemical-pharmaceutical/orientation/index.md
-                      - 具体专业: majors/domains/engineering/chemical-pharmaceutical/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/chemical-pharmaceutical/programs/index.md
+                          - 化学工程与工艺: majors/domains/engineering/chemical-pharmaceutical/programs/chemical-engineering-technology/index.md
+                          - 制药工程: majors/domains/engineering/chemical-pharmaceutical/programs/pharmaceutical-engineering/index.md
+                          - 应用化学: majors/domains/engineering/chemical-pharmaceutical/programs/applied-chemistry/index.md
+                          - 生物工程: majors/domains/engineering/chemical-pharmaceutical/programs/bioengineering/index.md
                       - 方向地图: majors/domains/engineering/chemical-pharmaceutical/fields/index.md
                       - 基础能力: majors/domains/engineering/chemical-pharmaceutical/foundations/index.md
                       - 专业去向: majors/domains/engineering/chemical-pharmaceutical/outcomes/index.md
@@ -242,7 +263,12 @@ nav:
                   - 土木建筑:
                       - majors/domains/engineering/civil-architecture/index.md
                       - 看懂这个专业群: majors/domains/engineering/civil-architecture/orientation/index.md
-                      - 具体专业: majors/domains/engineering/civil-architecture/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/civil-architecture/programs/index.md
+                          - 土木工程: majors/domains/engineering/civil-architecture/programs/civil-engineering/index.md
+                          - 建筑学: majors/domains/engineering/civil-architecture/programs/architecture/index.md
+                          - 城乡规划: majors/domains/engineering/civil-architecture/programs/urban-rural-planning/index.md
+                          - 工程管理: majors/domains/engineering/civil-architecture/programs/engineering-management/index.md
                       - 方向地图: majors/domains/engineering/civil-architecture/fields/index.md
                       - 基础能力: majors/domains/engineering/civil-architecture/foundations/index.md
                       - 专业去向: majors/domains/engineering/civil-architecture/outcomes/index.md
@@ -252,7 +278,12 @@ nav:
                   - 水利环境与安全:
                       - majors/domains/engineering/water-environment-safety/index.md
                       - 看懂这个专业群: majors/domains/engineering/water-environment-safety/orientation/index.md
-                      - 具体专业: majors/domains/engineering/water-environment-safety/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/water-environment-safety/programs/index.md
+                          - 水利水电工程: majors/domains/engineering/water-environment-safety/programs/water-resources-hydropower-engineering/index.md
+                          - 环境工程: majors/domains/engineering/water-environment-safety/programs/environmental-engineering/index.md
+                          - 安全工程: majors/domains/engineering/water-environment-safety/programs/safety-engineering/index.md
+                          - 给排水科学与工程: majors/domains/engineering/water-environment-safety/programs/water-supply-drainage-science-engineering/index.md
                       - 方向地图: majors/domains/engineering/water-environment-safety/fields/index.md
                       - 基础能力: majors/domains/engineering/water-environment-safety/foundations/index.md
                       - 专业去向: majors/domains/engineering/water-environment-safety/outcomes/index.md
@@ -262,7 +293,12 @@ nav:
                   - 交通运输:
                       - majors/domains/engineering/transportation/index.md
                       - 看懂这个专业群: majors/domains/engineering/transportation/orientation/index.md
-                      - 具体专业: majors/domains/engineering/transportation/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/transportation/programs/index.md
+                          - 交通运输: majors/domains/engineering/transportation/programs/transportation/index.md
+                          - 交通工程: majors/domains/engineering/transportation/programs/traffic-engineering/index.md
+                          - 车辆工程: majors/domains/engineering/transportation/programs/vehicle-engineering/index.md
+                          - 物流工程: majors/domains/engineering/transportation/programs/logistics-engineering/index.md
                       - 方向地图: majors/domains/engineering/transportation/fields/index.md
                       - 基础能力: majors/domains/engineering/transportation/foundations/index.md
                       - 专业去向: majors/domains/engineering/transportation/outcomes/index.md
@@ -272,7 +308,12 @@ nav:
                   - 航空航天与海洋:
                       - majors/domains/engineering/aerospace-marine/index.md
                       - 看懂这个专业群: majors/domains/engineering/aerospace-marine/orientation/index.md
-                      - 具体专业: majors/domains/engineering/aerospace-marine/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/aerospace-marine/programs/index.md
+                          - 航空航天工程: majors/domains/engineering/aerospace-marine/programs/aerospace-engineering/index.md
+                          - 飞行器设计与工程: majors/domains/engineering/aerospace-marine/programs/aircraft-design-engineering/index.md
+                          - 船舶与海洋工程: majors/domains/engineering/aerospace-marine/programs/naval-architecture-ocean-engineering/index.md
+                          - 海洋工程与技术: majors/domains/engineering/aerospace-marine/programs/ocean-engineering-technology/index.md
                       - 方向地图: majors/domains/engineering/aerospace-marine/fields/index.md
                       - 基础能力: majors/domains/engineering/aerospace-marine/foundations/index.md
                       - 专业去向: majors/domains/engineering/aerospace-marine/outcomes/index.md
@@ -282,7 +323,12 @@ nav:
                   - 地矿测绘:
                       - majors/domains/engineering/geoscience-mining/index.md
                       - 看懂这个专业群: majors/domains/engineering/geoscience-mining/orientation/index.md
-                      - 具体专业: majors/domains/engineering/geoscience-mining/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/geoscience-mining/programs/index.md
+                          - 地质工程: majors/domains/engineering/geoscience-mining/programs/geological-engineering/index.md
+                          - 测绘工程: majors/domains/engineering/geoscience-mining/programs/surveying-mapping-engineering/index.md
+                          - 矿业工程: majors/domains/engineering/geoscience-mining/programs/mining-engineering/index.md
+                          - 遥感科学与技术: majors/domains/engineering/geoscience-mining/programs/remote-sensing-science-technology/index.md
                       - 方向地图: majors/domains/engineering/geoscience-mining/fields/index.md
                       - 基础能力: majors/domains/engineering/geoscience-mining/foundations/index.md
                       - 专业去向: majors/domains/engineering/geoscience-mining/outcomes/index.md
@@ -292,7 +338,12 @@ nav:
                   - 生物医学工程:
                       - majors/domains/engineering/biomedical-engineering/index.md
                       - 看懂这个专业群: majors/domains/engineering/biomedical-engineering/orientation/index.md
-                      - 具体专业: majors/domains/engineering/biomedical-engineering/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/biomedical-engineering/programs/index.md
+                          - 生物医学工程: majors/domains/engineering/biomedical-engineering/programs/biomedical-engineering/index.md
+                          - 医学信息工程: majors/domains/engineering/biomedical-engineering/programs/medical-information-engineering/index.md
+                          - 智能医学工程: majors/domains/engineering/biomedical-engineering/programs/intelligent-medical-engineering/index.md
+                          - 康复工程: majors/domains/engineering/biomedical-engineering/programs/rehabilitation-engineering/index.md
                       - 方向地图: majors/domains/engineering/biomedical-engineering/fields/index.md
                       - 基础能力: majors/domains/engineering/biomedical-engineering/foundations/index.md
                       - 专业去向: majors/domains/engineering/biomedical-engineering/outcomes/index.md
@@ -302,7 +353,12 @@ nav:
                   - 工业与系统工程:
                       - majors/domains/engineering/industrial-systems/index.md
                       - 看懂这个专业群: majors/domains/engineering/industrial-systems/orientation/index.md
-                      - 具体专业: majors/domains/engineering/industrial-systems/programs/index.md
+                      - 具体专业:
+                          - majors/domains/engineering/industrial-systems/programs/index.md
+                          - 工业工程: majors/domains/engineering/industrial-systems/programs/industrial-engineering/index.md
+                          - 系统工程: majors/domains/engineering/industrial-systems/programs/systems-engineering/index.md
+                          - 质量管理工程: majors/domains/engineering/industrial-systems/programs/quality-management-engineering/index.md
+                          - 标准化工程: majors/domains/engineering/industrial-systems/programs/standardization-engineering/index.md
                       - 方向地图: majors/domains/engineering/industrial-systems/fields/index.md
                       - 基础能力: majors/domains/engineering/industrial-systems/foundations/index.md
                       - 专业去向: majors/domains/engineering/industrial-systems/outcomes/index.md
@@ -311,11 +367,21 @@ nav:
                           - 如何贡献: majors/domains/engineering/industrial-systems/perspectives/how-to-contribute.md
           - 理科:
               - majors/domains/science/index.md
+              - 适合谁:
+                  - majors/domains/science/fit/index.md
+                  - 优势信号: majors/domains/science/fit/strengths/index.md
+                  - 风险信号: majors/domains/science/fit/risk-signals/index.md
+              - 常见误解: majors/domains/science/misconceptions/index.md
               - 专业群:
                   - 数学与统计:
                       - majors/domains/science/mathematics-statistics/index.md
                       - 看懂这个专业群: majors/domains/science/mathematics-statistics/orientation/index.md
-                      - 具体专业: majors/domains/science/mathematics-statistics/programs/index.md
+                      - 具体专业:
+                          - majors/domains/science/mathematics-statistics/programs/index.md
+                          - 数学与应用数学: majors/domains/science/mathematics-statistics/programs/mathematics-applied-mathematics/index.md
+                          - 信息与计算科学: majors/domains/science/mathematics-statistics/programs/information-computing-science/index.md
+                          - 统计学: majors/domains/science/mathematics-statistics/programs/statistics/index.md
+                          - 应用统计学: majors/domains/science/mathematics-statistics/programs/applied-statistics/index.md
                       - 方向地图: majors/domains/science/mathematics-statistics/fields/index.md
                       - 基础能力: majors/domains/science/mathematics-statistics/foundations/index.md
                       - 专业去向: majors/domains/science/mathematics-statistics/outcomes/index.md
@@ -325,7 +391,12 @@ nav:
                   - 物理与天文:
                       - majors/domains/science/physics-astronomy/index.md
                       - 看懂这个专业群: majors/domains/science/physics-astronomy/orientation/index.md
-                      - 具体专业: majors/domains/science/physics-astronomy/programs/index.md
+                      - 具体专业:
+                          - majors/domains/science/physics-astronomy/programs/index.md
+                          - 物理学: majors/domains/science/physics-astronomy/programs/physics/index.md
+                          - 应用物理学: majors/domains/science/physics-astronomy/programs/applied-physics/index.md
+                          - 天文学: majors/domains/science/physics-astronomy/programs/astronomy/index.md
+                          - 光电信息科学与工程: majors/domains/science/physics-astronomy/programs/optoelectronic-information-science-engineering/index.md
                       - 方向地图: majors/domains/science/physics-astronomy/fields/index.md
                       - 基础能力: majors/domains/science/physics-astronomy/foundations/index.md
                       - 专业去向: majors/domains/science/physics-astronomy/outcomes/index.md
@@ -335,7 +406,12 @@ nav:
                   - 化学:
                       - majors/domains/science/chemistry/index.md
                       - 看懂这个专业群: majors/domains/science/chemistry/orientation/index.md
-                      - 具体专业: majors/domains/science/chemistry/programs/index.md
+                      - 具体专业:
+                          - majors/domains/science/chemistry/programs/index.md
+                          - 化学: majors/domains/science/chemistry/programs/chemistry/index.md
+                          - 应用化学: majors/domains/science/chemistry/programs/applied-chemistry/index.md
+                          - 化学生物学: majors/domains/science/chemistry/programs/chemical-biology/index.md
+                          - 材料化学: majors/domains/science/chemistry/programs/materials-chemistry/index.md
                       - 方向地图: majors/domains/science/chemistry/fields/index.md
                       - 基础能力: majors/domains/science/chemistry/foundations/index.md
                       - 专业去向: majors/domains/science/chemistry/outcomes/index.md
@@ -345,7 +421,12 @@ nav:
                   - 生命科学:
                       - majors/domains/science/biology/index.md
                       - 看懂这个专业群: majors/domains/science/biology/orientation/index.md
-                      - 具体专业: majors/domains/science/biology/programs/index.md
+                      - 具体专业:
+                          - majors/domains/science/biology/programs/index.md
+                          - 生物科学: majors/domains/science/biology/programs/biological-sciences/index.md
+                          - 生物技术: majors/domains/science/biology/programs/biotechnology/index.md
+                          - 生态学: majors/domains/science/biology/programs/ecology/index.md
+                          - 生物信息学: majors/domains/science/biology/programs/bioinformatics/index.md
                       - 方向地图: majors/domains/science/biology/fields/index.md
                       - 基础能力: majors/domains/science/biology/foundations/index.md
                       - 专业去向: majors/domains/science/biology/outcomes/index.md
@@ -355,7 +436,12 @@ nav:
                   - 地球与环境科学:
                       - majors/domains/science/earth-environment/index.md
                       - 看懂这个专业群: majors/domains/science/earth-environment/orientation/index.md
-                      - 具体专业: majors/domains/science/earth-environment/programs/index.md
+                      - 具体专业:
+                          - majors/domains/science/earth-environment/programs/index.md
+                          - 地理科学: majors/domains/science/earth-environment/programs/geographical-science/index.md
+                          - 地质学: majors/domains/science/earth-environment/programs/geology/index.md
+                          - 大气科学: majors/domains/science/earth-environment/programs/atmospheric-science/index.md
+                          - 环境科学: majors/domains/science/earth-environment/programs/environmental-science/index.md
                       - 方向地图: majors/domains/science/earth-environment/fields/index.md
                       - 基础能力: majors/domains/science/earth-environment/foundations/index.md
                       - 专业去向: majors/domains/science/earth-environment/outcomes/index.md
@@ -365,7 +451,12 @@ nav:
                   - 心理与认知科学:
                       - majors/domains/science/psychology-cognitive-science/index.md
                       - 看懂这个专业群: majors/domains/science/psychology-cognitive-science/orientation/index.md
-                      - 具体专业: majors/domains/science/psychology-cognitive-science/programs/index.md
+                      - 具体专业:
+                          - majors/domains/science/psychology-cognitive-science/programs/index.md
+                          - 心理学: majors/domains/science/psychology-cognitive-science/programs/psychology/index.md
+                          - 应用心理学: majors/domains/science/psychology-cognitive-science/programs/applied-psychology/index.md
+                          - 认知科学与技术: majors/domains/science/psychology-cognitive-science/programs/cognitive-science-technology/index.md
+                          - 人因工程: majors/domains/science/psychology-cognitive-science/programs/human-factors-engineering/index.md
                       - 方向地图: majors/domains/science/psychology-cognitive-science/fields/index.md
                       - 基础能力: majors/domains/science/psychology-cognitive-science/foundations/index.md
                       - 专业去向: majors/domains/science/psychology-cognitive-science/outcomes/index.md
@@ -374,11 +465,21 @@ nav:
                           - 如何贡献: majors/domains/science/psychology-cognitive-science/perspectives/how-to-contribute.md
           - 医学:
               - majors/domains/medicine/index.md
+              - 适合谁:
+                  - majors/domains/medicine/fit/index.md
+                  - 优势信号: majors/domains/medicine/fit/strengths/index.md
+                  - 风险信号: majors/domains/medicine/fit/risk-signals/index.md
+              - 常见误解: majors/domains/medicine/misconceptions/index.md
               - 专业群:
                   - 临床医学:
                       - majors/domains/medicine/clinical-medicine/index.md
                       - 看懂这个专业群: majors/domains/medicine/clinical-medicine/orientation/index.md
-                      - 具体专业: majors/domains/medicine/clinical-medicine/programs/index.md
+                      - 具体专业:
+                          - majors/domains/medicine/clinical-medicine/programs/index.md
+                          - 临床医学: majors/domains/medicine/clinical-medicine/programs/clinical-medicine/index.md
+                          - 麻醉学: majors/domains/medicine/clinical-medicine/programs/anesthesiology/index.md
+                          - 医学影像学: majors/domains/medicine/clinical-medicine/programs/medical-imaging/index.md
+                          - 精神医学: majors/domains/medicine/clinical-medicine/programs/psychiatry/index.md
                       - 方向地图: majors/domains/medicine/clinical-medicine/fields/index.md
                       - 基础能力: majors/domains/medicine/clinical-medicine/foundations/index.md
                       - 专业去向: majors/domains/medicine/clinical-medicine/outcomes/index.md
@@ -388,7 +489,10 @@ nav:
                   - 口腔医学:
                       - majors/domains/medicine/stomatology/index.md
                       - 看懂这个专业群: majors/domains/medicine/stomatology/orientation/index.md
-                      - 具体专业: majors/domains/medicine/stomatology/programs/index.md
+                      - 具体专业:
+                          - majors/domains/medicine/stomatology/programs/index.md
+                          - 口腔医学: majors/domains/medicine/stomatology/programs/stomatology/index.md
+                          - 口腔医学技术: majors/domains/medicine/stomatology/programs/stomatology-technology/index.md
                       - 方向地图: majors/domains/medicine/stomatology/fields/index.md
                       - 基础能力: majors/domains/medicine/stomatology/foundations/index.md
                       - 专业去向: majors/domains/medicine/stomatology/outcomes/index.md
@@ -398,7 +502,12 @@ nav:
                   - 公共卫生与预防医学:
                       - majors/domains/medicine/public-health/index.md
                       - 看懂这个专业群: majors/domains/medicine/public-health/orientation/index.md
-                      - 具体专业: majors/domains/medicine/public-health/programs/index.md
+                      - 具体专业:
+                          - majors/domains/medicine/public-health/programs/index.md
+                          - 预防医学: majors/domains/medicine/public-health/programs/preventive-medicine/index.md
+                          - 公共卫生: majors/domains/medicine/public-health/programs/public-health/index.md
+                          - 卫生检验与检疫: majors/domains/medicine/public-health/programs/health-inspection-quarantine/index.md
+                          - 全球健康学: majors/domains/medicine/public-health/programs/global-health/index.md
                       - 方向地图: majors/domains/medicine/public-health/fields/index.md
                       - 基础能力: majors/domains/medicine/public-health/foundations/index.md
                       - 专业去向: majors/domains/medicine/public-health/outcomes/index.md
@@ -408,7 +517,12 @@ nav:
                   - 药学:
                       - majors/domains/medicine/pharmacy/index.md
                       - 看懂这个专业群: majors/domains/medicine/pharmacy/orientation/index.md
-                      - 具体专业: majors/domains/medicine/pharmacy/programs/index.md
+                      - 具体专业:
+                          - majors/domains/medicine/pharmacy/programs/index.md
+                          - 药学: majors/domains/medicine/pharmacy/programs/pharmacy/index.md
+                          - 临床药学: majors/domains/medicine/pharmacy/programs/clinical-pharmacy/index.md
+                          - 药物制剂: majors/domains/medicine/pharmacy/programs/pharmaceutical-preparation/index.md
+                          - 中药学: majors/domains/medicine/pharmacy/programs/traditional-chinese-pharmacy/index.md
                       - 方向地图: majors/domains/medicine/pharmacy/fields/index.md
                       - 基础能力: majors/domains/medicine/pharmacy/foundations/index.md
                       - 专业去向: majors/domains/medicine/pharmacy/outcomes/index.md
@@ -418,7 +532,10 @@ nav:
                   - 护理学:
                       - majors/domains/medicine/nursing/index.md
                       - 看懂这个专业群: majors/domains/medicine/nursing/orientation/index.md
-                      - 具体专业: majors/domains/medicine/nursing/programs/index.md
+                      - 具体专业:
+                          - majors/domains/medicine/nursing/programs/index.md
+                          - 护理学: majors/domains/medicine/nursing/programs/nursing/index.md
+                          - 助产学: majors/domains/medicine/nursing/programs/midwifery/index.md
                       - 方向地图: majors/domains/medicine/nursing/fields/index.md
                       - 基础能力: majors/domains/medicine/nursing/foundations/index.md
                       - 专业去向: majors/domains/medicine/nursing/outcomes/index.md
@@ -428,7 +545,12 @@ nav:
                   - 医学技术:
                       - majors/domains/medicine/medical-technology/index.md
                       - 看懂这个专业群: majors/domains/medicine/medical-technology/orientation/index.md
-                      - 具体专业: majors/domains/medicine/medical-technology/programs/index.md
+                      - 具体专业:
+                          - majors/domains/medicine/medical-technology/programs/index.md
+                          - 医学检验技术: majors/domains/medicine/medical-technology/programs/medical-laboratory-technology/index.md
+                          - 医学影像技术: majors/domains/medicine/medical-technology/programs/medical-imaging-technology/index.md
+                          - 康复治疗学: majors/domains/medicine/medical-technology/programs/rehabilitation-therapy/index.md
+                          - 眼视光学: majors/domains/medicine/medical-technology/programs/optometry/index.md
                       - 方向地图: majors/domains/medicine/medical-technology/fields/index.md
                       - 基础能力: majors/domains/medicine/medical-technology/foundations/index.md
                       - 专业去向: majors/domains/medicine/medical-technology/outcomes/index.md
@@ -438,7 +560,12 @@ nav:
                   - 中医药:
                       - majors/domains/medicine/chinese-medicine/index.md
                       - 看懂这个专业群: majors/domains/medicine/chinese-medicine/orientation/index.md
-                      - 具体专业: majors/domains/medicine/chinese-medicine/programs/index.md
+                      - 具体专业:
+                          - majors/domains/medicine/chinese-medicine/programs/index.md
+                          - 中医学: majors/domains/medicine/chinese-medicine/programs/traditional-chinese-medicine/index.md
+                          - 针灸推拿学: majors/domains/medicine/chinese-medicine/programs/acupuncture-massage/index.md
+                          - 中西医临床医学: majors/domains/medicine/chinese-medicine/programs/integrated-chinese-western-clinical-medicine/index.md
+                          - 中药学: majors/domains/medicine/chinese-medicine/programs/traditional-chinese-pharmacy/index.md
                       - 方向地图: majors/domains/medicine/chinese-medicine/fields/index.md
                       - 基础能力: majors/domains/medicine/chinese-medicine/foundations/index.md
                       - 专业去向: majors/domains/medicine/chinese-medicine/outcomes/index.md
@@ -447,11 +574,21 @@ nav:
                           - 如何贡献: majors/domains/medicine/chinese-medicine/perspectives/how-to-contribute.md
           - 农林与环境:
               - majors/domains/agriculture/index.md
+              - 适合谁:
+                  - majors/domains/agriculture/fit/index.md
+                  - 优势信号: majors/domains/agriculture/fit/strengths/index.md
+                  - 风险信号: majors/domains/agriculture/fit/risk-signals/index.md
+              - 常见误解: majors/domains/agriculture/misconceptions/index.md
               - 专业群:
                   - 植物生产:
                       - majors/domains/agriculture/plant-production/index.md
                       - 看懂这个专业群: majors/domains/agriculture/plant-production/orientation/index.md
-                      - 具体专业: majors/domains/agriculture/plant-production/programs/index.md
+                      - 具体专业:
+                          - majors/domains/agriculture/plant-production/programs/index.md
+                          - 农学: majors/domains/agriculture/plant-production/programs/agronomy/index.md
+                          - 园艺: majors/domains/agriculture/plant-production/programs/horticulture/index.md
+                          - 植物保护: majors/domains/agriculture/plant-production/programs/plant-protection/index.md
+                          - 种子科学与工程: majors/domains/agriculture/plant-production/programs/seed-science-engineering/index.md
                       - 方向地图: majors/domains/agriculture/plant-production/fields/index.md
                       - 基础能力: majors/domains/agriculture/plant-production/foundations/index.md
                       - 专业去向: majors/domains/agriculture/plant-production/outcomes/index.md
@@ -461,7 +598,12 @@ nav:
                   - 动物生产与动物医学:
                       - majors/domains/agriculture/animal-production-medicine/index.md
                       - 看懂这个专业群: majors/domains/agriculture/animal-production-medicine/orientation/index.md
-                      - 具体专业: majors/domains/agriculture/animal-production-medicine/programs/index.md
+                      - 具体专业:
+                          - majors/domains/agriculture/animal-production-medicine/programs/index.md
+                          - 动物科学: majors/domains/agriculture/animal-production-medicine/programs/animal-science/index.md
+                          - 动物医学: majors/domains/agriculture/animal-production-medicine/programs/veterinary-medicine/index.md
+                          - 水产养殖学: majors/domains/agriculture/animal-production-medicine/programs/aquaculture/index.md
+                          - 动植物检疫: majors/domains/agriculture/animal-production-medicine/programs/animal-plant-quarantine/index.md
                       - 方向地图: majors/domains/agriculture/animal-production-medicine/fields/index.md
                       - 基础能力: majors/domains/agriculture/animal-production-medicine/foundations/index.md
                       - 专业去向: majors/domains/agriculture/animal-production-medicine/outcomes/index.md
@@ -471,7 +613,12 @@ nav:
                   - 林学与草业:
                       - majors/domains/agriculture/forestry-grassland/index.md
                       - 看懂这个专业群: majors/domains/agriculture/forestry-grassland/orientation/index.md
-                      - 具体专业: majors/domains/agriculture/forestry-grassland/programs/index.md
+                      - 具体专业:
+                          - majors/domains/agriculture/forestry-grassland/programs/index.md
+                          - 林学: majors/domains/agriculture/forestry-grassland/programs/forestry/index.md
+                          - 园林: majors/domains/agriculture/forestry-grassland/programs/landscape-gardening/index.md
+                          - 草业科学: majors/domains/agriculture/forestry-grassland/programs/grassland-science/index.md
+                          - 森林保护: majors/domains/agriculture/forestry-grassland/programs/forest-protection/index.md
                       - 方向地图: majors/domains/agriculture/forestry-grassland/fields/index.md
                       - 基础能力: majors/domains/agriculture/forestry-grassland/foundations/index.md
                       - 专业去向: majors/domains/agriculture/forestry-grassland/outcomes/index.md
@@ -481,7 +628,12 @@ nav:
                   - 食品科学与工程:
                       - majors/domains/agriculture/food-science/index.md
                       - 看懂这个专业群: majors/domains/agriculture/food-science/orientation/index.md
-                      - 具体专业: majors/domains/agriculture/food-science/programs/index.md
+                      - 具体专业:
+                          - majors/domains/agriculture/food-science/programs/index.md
+                          - 食品科学与工程: majors/domains/agriculture/food-science/programs/food-science-engineering/index.md
+                          - 食品质量与安全: majors/domains/agriculture/food-science/programs/food-quality-safety/index.md
+                          - 粮食工程: majors/domains/agriculture/food-science/programs/grain-engineering/index.md
+                          - 食品营养与健康: majors/domains/agriculture/food-science/programs/food-nutrition-health/index.md
                       - 方向地图: majors/domains/agriculture/food-science/fields/index.md
                       - 基础能力: majors/domains/agriculture/food-science/foundations/index.md
                       - 专业去向: majors/domains/agriculture/food-science/outcomes/index.md
@@ -491,7 +643,12 @@ nav:
                   - 农业资源与环境:
                       - majors/domains/agriculture/agricultural-resources-environment/index.md
                       - 看懂这个专业群: majors/domains/agriculture/agricultural-resources-environment/orientation/index.md
-                      - 具体专业: majors/domains/agriculture/agricultural-resources-environment/programs/index.md
+                      - 具体专业:
+                          - majors/domains/agriculture/agricultural-resources-environment/programs/index.md
+                          - 农业资源与环境: majors/domains/agriculture/agricultural-resources-environment/programs/agricultural-resources-environment/index.md
+                          - 水土保持与荒漠化防治: majors/domains/agriculture/agricultural-resources-environment/programs/soil-water-conservation-desertification-control/index.md
+                          - 土地资源管理: majors/domains/agriculture/agricultural-resources-environment/programs/land-resource-management/index.md
+                          - 环境生态工程: majors/domains/agriculture/agricultural-resources-environment/programs/environmental-ecological-engineering/index.md
                       - 方向地图: majors/domains/agriculture/agricultural-resources-environment/fields/index.md
                       - 基础能力: majors/domains/agriculture/agricultural-resources-environment/foundations/index.md
                       - 专业去向: majors/domains/agriculture/agricultural-resources-environment/outcomes/index.md
@@ -501,7 +658,12 @@ nav:
                   - 智慧农业:
                       - majors/domains/agriculture/smart-agriculture/index.md
                       - 看懂这个专业群: majors/domains/agriculture/smart-agriculture/orientation/index.md
-                      - 具体专业: majors/domains/agriculture/smart-agriculture/programs/index.md
+                      - 具体专业:
+                          - majors/domains/agriculture/smart-agriculture/programs/index.md
+                          - 智慧农业: majors/domains/agriculture/smart-agriculture/programs/smart-agriculture/index.md
+                          - 农业工程: majors/domains/agriculture/smart-agriculture/programs/agricultural-engineering/index.md
+                          - 农业智能装备工程: majors/domains/agriculture/smart-agriculture/programs/intelligent-agricultural-equipment-engineering/index.md
+                          - 设施农业科学与工程: majors/domains/agriculture/smart-agriculture/programs/facility-agriculture-science-engineering/index.md
                       - 方向地图: majors/domains/agriculture/smart-agriculture/fields/index.md
                       - 基础能力: majors/domains/agriculture/smart-agriculture/foundations/index.md
                       - 专业去向: majors/domains/agriculture/smart-agriculture/outcomes/index.md
@@ -510,11 +672,21 @@ nav:
                           - 如何贡献: majors/domains/agriculture/smart-agriculture/perspectives/how-to-contribute.md
           - 经管与经济:
               - majors/domains/business-economics-management/index.md
+              - 适合谁:
+                  - majors/domains/business-economics-management/fit/index.md
+                  - 优势信号: majors/domains/business-economics-management/fit/strengths/index.md
+                  - 风险信号: majors/domains/business-economics-management/fit/risk-signals/index.md
+              - 常见误解: majors/domains/business-economics-management/misconceptions/index.md
               - 专业群:
                   - 经济与金融:
                       - majors/domains/business-economics-management/economics-finance/index.md
                       - 看懂这个专业群: majors/domains/business-economics-management/economics-finance/orientation/index.md
-                      - 具体专业: majors/domains/business-economics-management/economics-finance/programs/index.md
+                      - 具体专业:
+                          - majors/domains/business-economics-management/economics-finance/programs/index.md
+                          - 经济学: majors/domains/business-economics-management/economics-finance/programs/economics/index.md
+                          - 金融学: majors/domains/business-economics-management/economics-finance/programs/finance/index.md
+                          - 金融工程: majors/domains/business-economics-management/economics-finance/programs/financial-engineering/index.md
+                          - 国际经济与贸易: majors/domains/business-economics-management/economics-finance/programs/international-economics-trade/index.md
                       - 方向地图: majors/domains/business-economics-management/economics-finance/fields/index.md
                       - 基础能力: majors/domains/business-economics-management/economics-finance/foundations/index.md
                       - 专业去向: majors/domains/business-economics-management/economics-finance/outcomes/index.md
@@ -524,7 +696,12 @@ nav:
                   - 会计与审计:
                       - majors/domains/business-economics-management/accounting-auditing/index.md
                       - 看懂这个专业群: majors/domains/business-economics-management/accounting-auditing/orientation/index.md
-                      - 具体专业: majors/domains/business-economics-management/accounting-auditing/programs/index.md
+                      - 具体专业:
+                          - majors/domains/business-economics-management/accounting-auditing/programs/index.md
+                          - 会计学: majors/domains/business-economics-management/accounting-auditing/programs/accounting/index.md
+                          - 财务管理: majors/domains/business-economics-management/accounting-auditing/programs/financial-management/index.md
+                          - 审计学: majors/domains/business-economics-management/accounting-auditing/programs/auditing/index.md
+                          - 资产评估: majors/domains/business-economics-management/accounting-auditing/programs/asset-appraisal/index.md
                       - 方向地图: majors/domains/business-economics-management/accounting-auditing/fields/index.md
                       - 基础能力: majors/domains/business-economics-management/accounting-auditing/foundations/index.md
                       - 专业去向: majors/domains/business-economics-management/accounting-auditing/outcomes/index.md
@@ -534,7 +711,12 @@ nav:
                   - 工商管理:
                       - majors/domains/business-economics-management/business-administration/index.md
                       - 看懂这个专业群: majors/domains/business-economics-management/business-administration/orientation/index.md
-                      - 具体专业: majors/domains/business-economics-management/business-administration/programs/index.md
+                      - 具体专业:
+                          - majors/domains/business-economics-management/business-administration/programs/index.md
+                          - 工商管理: majors/domains/business-economics-management/business-administration/programs/business-administration/index.md
+                          - 市场营销: majors/domains/business-economics-management/business-administration/programs/marketing/index.md
+                          - 人力资源管理: majors/domains/business-economics-management/business-administration/programs/human-resource-management/index.md
+                          - 创业管理: majors/domains/business-economics-management/business-administration/programs/entrepreneurship-management/index.md
                       - 方向地图: majors/domains/business-economics-management/business-administration/fields/index.md
                       - 基础能力: majors/domains/business-economics-management/business-administration/foundations/index.md
                       - 专业去向: majors/domains/business-economics-management/business-administration/outcomes/index.md
@@ -544,7 +726,12 @@ nav:
                   - 管理科学与工程:
                       - majors/domains/business-economics-management/management-science-engineering/index.md
                       - 看懂这个专业群: majors/domains/business-economics-management/management-science-engineering/orientation/index.md
-                      - 具体专业: majors/domains/business-economics-management/management-science-engineering/programs/index.md
+                      - 具体专业:
+                          - majors/domains/business-economics-management/management-science-engineering/programs/index.md
+                          - 管理科学: majors/domains/business-economics-management/management-science-engineering/programs/management-science/index.md
+                          - 信息管理与信息系统: majors/domains/business-economics-management/management-science-engineering/programs/information-management-information-systems/index.md
+                          - 工程管理: majors/domains/business-economics-management/management-science-engineering/programs/engineering-management/index.md
+                          - 大数据管理与应用: majors/domains/business-economics-management/management-science-engineering/programs/big-data-management-application/index.md
                       - 方向地图: majors/domains/business-economics-management/management-science-engineering/fields/index.md
                       - 基础能力: majors/domains/business-economics-management/management-science-engineering/foundations/index.md
                       - 专业去向: majors/domains/business-economics-management/management-science-engineering/outcomes/index.md
@@ -554,7 +741,12 @@ nav:
                   - 公共管理:
                       - majors/domains/business-economics-management/public-management/index.md
                       - 看懂这个专业群: majors/domains/business-economics-management/public-management/orientation/index.md
-                      - 具体专业: majors/domains/business-economics-management/public-management/programs/index.md
+                      - 具体专业:
+                          - majors/domains/business-economics-management/public-management/programs/index.md
+                          - 行政管理: majors/domains/business-economics-management/public-management/programs/administration-management/index.md
+                          - 公共事业管理: majors/domains/business-economics-management/public-management/programs/public-affairs-management/index.md
+                          - 劳动与社会保障: majors/domains/business-economics-management/public-management/programs/labor-social-security/index.md
+                          - 城市管理: majors/domains/business-economics-management/public-management/programs/urban-management/index.md
                       - 方向地图: majors/domains/business-economics-management/public-management/fields/index.md
                       - 基础能力: majors/domains/business-economics-management/public-management/foundations/index.md
                       - 专业去向: majors/domains/business-economics-management/public-management/outcomes/index.md
@@ -564,7 +756,12 @@ nav:
                   - 电商与物流:
                       - majors/domains/business-economics-management/ecommerce-logistics/index.md
                       - 看懂这个专业群: majors/domains/business-economics-management/ecommerce-logistics/orientation/index.md
-                      - 具体专业: majors/domains/business-economics-management/ecommerce-logistics/programs/index.md
+                      - 具体专业:
+                          - majors/domains/business-economics-management/ecommerce-logistics/programs/index.md
+                          - 电子商务: majors/domains/business-economics-management/ecommerce-logistics/programs/e-commerce/index.md
+                          - 物流管理: majors/domains/business-economics-management/ecommerce-logistics/programs/logistics-management/index.md
+                          - 物流工程: majors/domains/business-economics-management/ecommerce-logistics/programs/logistics-engineering/index.md
+                          - 供应链管理: majors/domains/business-economics-management/ecommerce-logistics/programs/supply-chain-management/index.md
                       - 方向地图: majors/domains/business-economics-management/ecommerce-logistics/fields/index.md
                       - 基础能力: majors/domains/business-economics-management/ecommerce-logistics/foundations/index.md
                       - 专业去向: majors/domains/business-economics-management/ecommerce-logistics/outcomes/index.md
@@ -573,11 +770,21 @@ nav:
                           - 如何贡献: majors/domains/business-economics-management/ecommerce-logistics/perspectives/how-to-contribute.md
           - 法政:
               - majors/domains/law-politics/index.md
+              - 适合谁:
+                  - majors/domains/law-politics/fit/index.md
+                  - 优势信号: majors/domains/law-politics/fit/strengths/index.md
+                  - 风险信号: majors/domains/law-politics/fit/risk-signals/index.md
+              - 常见误解: majors/domains/law-politics/misconceptions/index.md
               - 专业群:
                   - 法学:
                       - majors/domains/law-politics/law/index.md
                       - 看懂这个专业群: majors/domains/law-politics/law/orientation/index.md
-                      - 具体专业: majors/domains/law-politics/law/programs/index.md
+                      - 具体专业:
+                          - majors/domains/law-politics/law/programs/index.md
+                          - 法学: majors/domains/law-politics/law/programs/law/index.md
+                          - 知识产权: majors/domains/law-politics/law/programs/intellectual-property/index.md
+                          - 国际经贸规则: majors/domains/law-politics/law/programs/international-economic-trade-rules/index.md
+                          - 司法警察学: majors/domains/law-politics/law/programs/judicial-police-science/index.md
                       - 方向地图: majors/domains/law-politics/law/fields/index.md
                       - 基础能力: majors/domains/law-politics/law/foundations/index.md
                       - 专业去向: majors/domains/law-politics/law/outcomes/index.md
@@ -587,7 +794,12 @@ nav:
                   - 政治学:
                       - majors/domains/law-politics/political-science/index.md
                       - 看懂这个专业群: majors/domains/law-politics/political-science/orientation/index.md
-                      - 具体专业: majors/domains/law-politics/political-science/programs/index.md
+                      - 具体专业:
+                          - majors/domains/law-politics/political-science/programs/index.md
+                          - 政治学与行政学: majors/domains/law-politics/political-science/programs/political-science-administration/index.md
+                          - 国际政治: majors/domains/law-politics/political-science/programs/international-politics/index.md
+                          - 外交学: majors/domains/law-politics/political-science/programs/diplomacy/index.md
+                          - 国际事务与国际关系: majors/domains/law-politics/political-science/programs/international-affairs-relations/index.md
                       - 方向地图: majors/domains/law-politics/political-science/fields/index.md
                       - 基础能力: majors/domains/law-politics/political-science/foundations/index.md
                       - 专业去向: majors/domains/law-politics/political-science/outcomes/index.md
@@ -597,7 +809,12 @@ nav:
                   - 社会学与社会工作:
                       - majors/domains/law-politics/sociology-social-work/index.md
                       - 看懂这个专业群: majors/domains/law-politics/sociology-social-work/orientation/index.md
-                      - 具体专业: majors/domains/law-politics/sociology-social-work/programs/index.md
+                      - 具体专业:
+                          - majors/domains/law-politics/sociology-social-work/programs/index.md
+                          - 社会学: majors/domains/law-politics/sociology-social-work/programs/sociology/index.md
+                          - 社会工作: majors/domains/law-politics/sociology-social-work/programs/social-work/index.md
+                          - 人类学: majors/domains/law-politics/sociology-social-work/programs/anthropology/index.md
+                          - 女性学: majors/domains/law-politics/sociology-social-work/programs/women-studies/index.md
                       - 方向地图: majors/domains/law-politics/sociology-social-work/fields/index.md
                       - 基础能力: majors/domains/law-politics/sociology-social-work/foundations/index.md
                       - 专业去向: majors/domains/law-politics/sociology-social-work/outcomes/index.md
@@ -607,7 +824,12 @@ nav:
                   - 公安与安全治理:
                       - majors/domains/law-politics/public-security/index.md
                       - 看懂这个专业群: majors/domains/law-politics/public-security/orientation/index.md
-                      - 具体专业: majors/domains/law-politics/public-security/programs/index.md
+                      - 具体专业:
+                          - majors/domains/law-politics/public-security/programs/index.md
+                          - 治安学: majors/domains/law-politics/public-security/programs/public-security-science/index.md
+                          - 侦查学: majors/domains/law-politics/public-security/programs/investigation-science/index.md
+                          - 公安管理学: majors/domains/law-politics/public-security/programs/public-security-management/index.md
+                          - 网络安全与执法: majors/domains/law-politics/public-security/programs/cybersecurity-law-enforcement/index.md
                       - 方向地图: majors/domains/law-politics/public-security/fields/index.md
                       - 基础能力: majors/domains/law-politics/public-security/foundations/index.md
                       - 专业去向: majors/domains/law-politics/public-security/outcomes/index.md
@@ -617,7 +839,11 @@ nav:
                   - 马克思主义理论:
                       - majors/domains/law-politics/marxism/index.md
                       - 看懂这个专业群: majors/domains/law-politics/marxism/orientation/index.md
-                      - 具体专业: majors/domains/law-politics/marxism/programs/index.md
+                      - 具体专业:
+                          - majors/domains/law-politics/marxism/programs/index.md
+                          - 思想政治教育: majors/domains/law-politics/marxism/programs/ideological-political-education/index.md
+                          - 马克思主义理论: majors/domains/law-politics/marxism/programs/marxist-theory/index.md
+                          - 科学社会主义: majors/domains/law-politics/marxism/programs/scientific-socialism/index.md
                       - 方向地图: majors/domains/law-politics/marxism/fields/index.md
                       - 基础能力: majors/domains/law-politics/marxism/foundations/index.md
                       - 专业去向: majors/domains/law-politics/marxism/outcomes/index.md
@@ -626,11 +852,21 @@ nav:
                           - 如何贡献: majors/domains/law-politics/marxism/perspectives/how-to-contribute.md
           - 人文学科:
               - majors/domains/humanities/index.md
+              - 适合谁:
+                  - majors/domains/humanities/fit/index.md
+                  - 优势信号: majors/domains/humanities/fit/strengths/index.md
+                  - 风险信号: majors/domains/humanities/fit/risk-signals/index.md
+              - 常见误解: majors/domains/humanities/misconceptions/index.md
               - 专业群:
                   - 中国语言文学:
                       - majors/domains/humanities/chinese-language-literature/index.md
                       - 看懂这个专业群: majors/domains/humanities/chinese-language-literature/orientation/index.md
-                      - 具体专业: majors/domains/humanities/chinese-language-literature/programs/index.md
+                      - 具体专业:
+                          - majors/domains/humanities/chinese-language-literature/programs/index.md
+                          - 汉语言文学: majors/domains/humanities/chinese-language-literature/programs/chinese-language-literature/index.md
+                          - 汉语言: majors/domains/humanities/chinese-language-literature/programs/chinese-language/index.md
+                          - 秘书学: majors/domains/humanities/chinese-language-literature/programs/secretarial-science/index.md
+                          - 古典文献学: majors/domains/humanities/chinese-language-literature/programs/classical-philology/index.md
                       - 方向地图: majors/domains/humanities/chinese-language-literature/fields/index.md
                       - 基础能力: majors/domains/humanities/chinese-language-literature/foundations/index.md
                       - 专业去向: majors/domains/humanities/chinese-language-literature/outcomes/index.md
@@ -640,7 +876,12 @@ nav:
                   - 外国语言文学:
                       - majors/domains/humanities/foreign-languages-literatures/index.md
                       - 看懂这个专业群: majors/domains/humanities/foreign-languages-literatures/orientation/index.md
-                      - 具体专业: majors/domains/humanities/foreign-languages-literatures/programs/index.md
+                      - 具体专业:
+                          - majors/domains/humanities/foreign-languages-literatures/programs/index.md
+                          - 英语: majors/domains/humanities/foreign-languages-literatures/programs/english/index.md
+                          - 翻译: majors/domains/humanities/foreign-languages-literatures/programs/translation/index.md
+                          - 商务英语: majors/domains/humanities/foreign-languages-literatures/programs/business-english/index.md
+                          - 小语种: majors/domains/humanities/foreign-languages-literatures/programs/less-commonly-taught-languages/index.md
                       - 方向地图: majors/domains/humanities/foreign-languages-literatures/fields/index.md
                       - 基础能力: majors/domains/humanities/foreign-languages-literatures/foundations/index.md
                       - 专业去向: majors/domains/humanities/foreign-languages-literatures/outcomes/index.md
@@ -650,7 +891,12 @@ nav:
                   - 历史学:
                       - majors/domains/humanities/history/index.md
                       - 看懂这个专业群: majors/domains/humanities/history/orientation/index.md
-                      - 具体专业: majors/domains/humanities/history/programs/index.md
+                      - 具体专业:
+                          - majors/domains/humanities/history/programs/index.md
+                          - 历史学: majors/domains/humanities/history/programs/history/index.md
+                          - 世界史: majors/domains/humanities/history/programs/world-history/index.md
+                          - 考古学: majors/domains/humanities/history/programs/archaeology/index.md
+                          - 文物与博物馆学: majors/domains/humanities/history/programs/cultural-relics-museology/index.md
                       - 方向地图: majors/domains/humanities/history/fields/index.md
                       - 基础能力: majors/domains/humanities/history/foundations/index.md
                       - 专业去向: majors/domains/humanities/history/outcomes/index.md
@@ -660,7 +906,12 @@ nav:
                   - 哲学:
                       - majors/domains/humanities/philosophy/index.md
                       - 看懂这个专业群: majors/domains/humanities/philosophy/orientation/index.md
-                      - 具体专业: majors/domains/humanities/philosophy/programs/index.md
+                      - 具体专业:
+                          - majors/domains/humanities/philosophy/programs/index.md
+                          - 哲学: majors/domains/humanities/philosophy/programs/philosophy/index.md
+                          - 逻辑学: majors/domains/humanities/philosophy/programs/logic/index.md
+                          - 宗教学: majors/domains/humanities/philosophy/programs/religious-studies/index.md
+                          - 伦理学: majors/domains/humanities/philosophy/programs/ethics/index.md
                       - 方向地图: majors/domains/humanities/philosophy/fields/index.md
                       - 基础能力: majors/domains/humanities/philosophy/foundations/index.md
                       - 专业去向: majors/domains/humanities/philosophy/outcomes/index.md
@@ -670,7 +921,12 @@ nav:
                   - 图书情报与档案:
                       - majors/domains/humanities/library-archives-information/index.md
                       - 看懂这个专业群: majors/domains/humanities/library-archives-information/orientation/index.md
-                      - 具体专业: majors/domains/humanities/library-archives-information/programs/index.md
+                      - 具体专业:
+                          - majors/domains/humanities/library-archives-information/programs/index.md
+                          - 图书馆学: majors/domains/humanities/library-archives-information/programs/library-science/index.md
+                          - 档案学: majors/domains/humanities/library-archives-information/programs/archival-science/index.md
+                          - 信息资源管理: majors/domains/humanities/library-archives-information/programs/information-resource-management/index.md
+                          - 编辑出版学: majors/domains/humanities/library-archives-information/programs/editing-publishing/index.md
                       - 方向地图: majors/domains/humanities/library-archives-information/fields/index.md
                       - 基础能力: majors/domains/humanities/library-archives-information/foundations/index.md
                       - 专业去向: majors/domains/humanities/library-archives-information/outcomes/index.md
@@ -679,11 +935,21 @@ nav:
                           - 如何贡献: majors/domains/humanities/library-archives-information/perspectives/how-to-contribute.md
           - 传播与媒体:
               - majors/domains/communication-media/index.md
+              - 适合谁:
+                  - majors/domains/communication-media/fit/index.md
+                  - 优势信号: majors/domains/communication-media/fit/strengths/index.md
+                  - 风险信号: majors/domains/communication-media/fit/risk-signals/index.md
+              - 常见误解: majors/domains/communication-media/misconceptions/index.md
               - 专业群:
                   - 新闻传播:
                       - majors/domains/communication-media/journalism-communication/index.md
                       - 看懂这个专业群: majors/domains/communication-media/journalism-communication/orientation/index.md
-                      - 具体专业: majors/domains/communication-media/journalism-communication/programs/index.md
+                      - 具体专业:
+                          - majors/domains/communication-media/journalism-communication/programs/index.md
+                          - 新闻学: majors/domains/communication-media/journalism-communication/programs/journalism/index.md
+                          - 传播学: majors/domains/communication-media/journalism-communication/programs/communication/index.md
+                          - 网络与新媒体: majors/domains/communication-media/journalism-communication/programs/internet-new-media/index.md
+                          - 国际新闻与传播: majors/domains/communication-media/journalism-communication/programs/international-journalism-communication/index.md
                       - 方向地图: majors/domains/communication-media/journalism-communication/fields/index.md
                       - 基础能力: majors/domains/communication-media/journalism-communication/foundations/index.md
                       - 专业去向: majors/domains/communication-media/journalism-communication/outcomes/index.md
@@ -693,7 +959,12 @@ nav:
                   - 广告与公共关系:
                       - majors/domains/communication-media/advertising-public-relations/index.md
                       - 看懂这个专业群: majors/domains/communication-media/advertising-public-relations/orientation/index.md
-                      - 具体专业: majors/domains/communication-media/advertising-public-relations/programs/index.md
+                      - 具体专业:
+                          - majors/domains/communication-media/advertising-public-relations/programs/index.md
+                          - 广告学: majors/domains/communication-media/advertising-public-relations/programs/advertising/index.md
+                          - 公共关系学: majors/domains/communication-media/advertising-public-relations/programs/public-relations/index.md
+                          - 品牌传播: majors/domains/communication-media/advertising-public-relations/programs/brand-communication/index.md
+                          - 会展经济与管理: majors/domains/communication-media/advertising-public-relations/programs/exhibition-economics-management/index.md
                       - 方向地图: majors/domains/communication-media/advertising-public-relations/fields/index.md
                       - 基础能力: majors/domains/communication-media/advertising-public-relations/foundations/index.md
                       - 专业去向: majors/domains/communication-media/advertising-public-relations/outcomes/index.md
@@ -703,7 +974,11 @@ nav:
                   - 出版与编辑:
                       - majors/domains/communication-media/publishing-editing/index.md
                       - 看懂这个专业群: majors/domains/communication-media/publishing-editing/orientation/index.md
-                      - 具体专业: majors/domains/communication-media/publishing-editing/programs/index.md
+                      - 具体专业:
+                          - majors/domains/communication-media/publishing-editing/programs/index.md
+                          - 编辑出版学: majors/domains/communication-media/publishing-editing/programs/editing-publishing/index.md
+                          - 数字出版: majors/domains/communication-media/publishing-editing/programs/digital-publishing/index.md
+                          - 出版策划与管理: majors/domains/communication-media/publishing-editing/programs/publishing-planning-management/index.md
                       - 方向地图: majors/domains/communication-media/publishing-editing/fields/index.md
                       - 基础能力: majors/domains/communication-media/publishing-editing/foundations/index.md
                       - 专业去向: majors/domains/communication-media/publishing-editing/outcomes/index.md
@@ -713,7 +988,12 @@ nav:
                   - 广播电视与影视:
                       - majors/domains/communication-media/film-television/index.md
                       - 看懂这个专业群: majors/domains/communication-media/film-television/orientation/index.md
-                      - 具体专业: majors/domains/communication-media/film-television/programs/index.md
+                      - 具体专业:
+                          - majors/domains/communication-media/film-television/programs/index.md
+                          - 广播电视学: majors/domains/communication-media/film-television/programs/radio-television-journalism/index.md
+                          - 广播电视编导: majors/domains/communication-media/film-television/programs/radio-television-directing/index.md
+                          - 戏剧影视文学: majors/domains/communication-media/film-television/programs/drama-film-literature/index.md
+                          - 影视摄影与制作: majors/domains/communication-media/film-television/programs/film-photography-production/index.md
                       - 方向地图: majors/domains/communication-media/film-television/fields/index.md
                       - 基础能力: majors/domains/communication-media/film-television/foundations/index.md
                       - 专业去向: majors/domains/communication-media/film-television/outcomes/index.md
@@ -723,7 +1003,12 @@ nav:
                   - 数字媒体:
                       - majors/domains/communication-media/digital-media/index.md
                       - 看懂这个专业群: majors/domains/communication-media/digital-media/orientation/index.md
-                      - 具体专业: majors/domains/communication-media/digital-media/programs/index.md
+                      - 具体专业:
+                          - majors/domains/communication-media/digital-media/programs/index.md
+                          - 数字媒体技术: majors/domains/communication-media/digital-media/programs/digital-media-technology/index.md
+                          - 数字媒体艺术: majors/domains/communication-media/digital-media/programs/digital-media-art/index.md
+                          - 新媒体艺术: majors/domains/communication-media/digital-media/programs/new-media-art/index.md
+                          - 动画: majors/domains/communication-media/digital-media/programs/animation/index.md
                       - 方向地图: majors/domains/communication-media/digital-media/fields/index.md
                       - 基础能力: majors/domains/communication-media/digital-media/foundations/index.md
                       - 专业去向: majors/domains/communication-media/digital-media/outcomes/index.md
@@ -732,11 +1017,21 @@ nav:
                           - 如何贡献: majors/domains/communication-media/digital-media/perspectives/how-to-contribute.md
           - 教育与体育:
               - majors/domains/education-sports/index.md
+              - 适合谁:
+                  - majors/domains/education-sports/fit/index.md
+                  - 优势信号: majors/domains/education-sports/fit/strengths/index.md
+                  - 风险信号: majors/domains/education-sports/fit/risk-signals/index.md
+              - 常见误解: majors/domains/education-sports/misconceptions/index.md
               - 专业群:
                   - 教育学:
                       - majors/domains/education-sports/education/index.md
                       - 看懂这个专业群: majors/domains/education-sports/education/orientation/index.md
-                      - 具体专业: majors/domains/education-sports/education/programs/index.md
+                      - 具体专业:
+                          - majors/domains/education-sports/education/programs/index.md
+                          - 教育学: majors/domains/education-sports/education/programs/education/index.md
+                          - 学前教育: majors/domains/education-sports/education/programs/preschool-education/index.md
+                          - 小学教育: majors/domains/education-sports/education/programs/primary-education/index.md
+                          - 教育管理: majors/domains/education-sports/education/programs/education-management/index.md
                       - 方向地图: majors/domains/education-sports/education/fields/index.md
                       - 基础能力: majors/domains/education-sports/education/foundations/index.md
                       - 专业去向: majors/domains/education-sports/education/outcomes/index.md
@@ -746,7 +1041,12 @@ nav:
                   - 师范教育:
                       - majors/domains/education-sports/teacher-education/index.md
                       - 看懂这个专业群: majors/domains/education-sports/teacher-education/orientation/index.md
-                      - 具体专业: majors/domains/education-sports/teacher-education/programs/index.md
+                      - 具体专业:
+                          - majors/domains/education-sports/teacher-education/programs/index.md
+                          - 汉语言文学师范: majors/domains/education-sports/teacher-education/programs/chinese-language-literature-teacher-education/index.md
+                          - 数学师范: majors/domains/education-sports/teacher-education/programs/mathematics-teacher-education/index.md
+                          - 英语师范: majors/domains/education-sports/teacher-education/programs/english-teacher-education/index.md
+                          - 物理师范: majors/domains/education-sports/teacher-education/programs/physics-teacher-education/index.md
                       - 方向地图: majors/domains/education-sports/teacher-education/fields/index.md
                       - 基础能力: majors/domains/education-sports/teacher-education/foundations/index.md
                       - 专业去向: majors/domains/education-sports/teacher-education/outcomes/index.md
@@ -756,7 +1056,11 @@ nav:
                   - 教育技术:
                       - majors/domains/education-sports/educational-technology/index.md
                       - 看懂这个专业群: majors/domains/education-sports/educational-technology/orientation/index.md
-                      - 具体专业: majors/domains/education-sports/educational-technology/programs/index.md
+                      - 具体专业:
+                          - majors/domains/education-sports/educational-technology/programs/index.md
+                          - 教育技术学: majors/domains/education-sports/educational-technology/programs/educational-technology/index.md
+                          - 智能教育: majors/domains/education-sports/educational-technology/programs/intelligent-education/index.md
+                          - 科学教育: majors/domains/education-sports/educational-technology/programs/science-education/index.md
                       - 方向地图: majors/domains/education-sports/educational-technology/fields/index.md
                       - 基础能力: majors/domains/education-sports/educational-technology/foundations/index.md
                       - 专业去向: majors/domains/education-sports/educational-technology/outcomes/index.md
@@ -766,7 +1070,12 @@ nav:
                   - 体育学:
                       - majors/domains/education-sports/sports-science/index.md
                       - 看懂这个专业群: majors/domains/education-sports/sports-science/orientation/index.md
-                      - 具体专业: majors/domains/education-sports/sports-science/programs/index.md
+                      - 具体专业:
+                          - majors/domains/education-sports/sports-science/programs/index.md
+                          - 体育教育: majors/domains/education-sports/sports-science/programs/physical-education/index.md
+                          - 运动训练: majors/domains/education-sports/sports-science/programs/sports-training/index.md
+                          - 社会体育指导与管理: majors/domains/education-sports/sports-science/programs/social-sports-guidance-management/index.md
+                          - 运动康复: majors/domains/education-sports/sports-science/programs/sports-rehabilitation/index.md
                       - 方向地图: majors/domains/education-sports/sports-science/fields/index.md
                       - 基础能力: majors/domains/education-sports/sports-science/foundations/index.md
                       - 专业去向: majors/domains/education-sports/sports-science/outcomes/index.md
@@ -776,7 +1085,11 @@ nav:
                   - 特殊教育:
                       - majors/domains/education-sports/special-education/index.md
                       - 看懂这个专业群: majors/domains/education-sports/special-education/orientation/index.md
-                      - 具体专业: majors/domains/education-sports/special-education/programs/index.md
+                      - 具体专业:
+                          - majors/domains/education-sports/special-education/programs/index.md
+                          - 特殊教育: majors/domains/education-sports/special-education/programs/special-education/index.md
+                          - 融合教育: majors/domains/education-sports/special-education/programs/inclusive-education/index.md
+                          - 康复治疗教育: majors/domains/education-sports/special-education/programs/rehabilitation-therapy-education/index.md
                       - 方向地图: majors/domains/education-sports/special-education/fields/index.md
                       - 基础能力: majors/domains/education-sports/special-education/foundations/index.md
                       - 专业去向: majors/domains/education-sports/special-education/outcomes/index.md
@@ -785,11 +1098,21 @@ nav:
                           - 如何贡献: majors/domains/education-sports/special-education/perspectives/how-to-contribute.md
           - 艺术与设计:
               - majors/domains/arts-design/index.md
+              - 适合谁:
+                  - majors/domains/arts-design/fit/index.md
+                  - 优势信号: majors/domains/arts-design/fit/strengths/index.md
+                  - 风险信号: majors/domains/arts-design/fit/risk-signals/index.md
+              - 常见误解: majors/domains/arts-design/misconceptions/index.md
               - 专业群:
                   - 美术学:
                       - majors/domains/arts-design/fine-arts/index.md
                       - 看懂这个专业群: majors/domains/arts-design/fine-arts/orientation/index.md
-                      - 具体专业: majors/domains/arts-design/fine-arts/programs/index.md
+                      - 具体专业:
+                          - majors/domains/arts-design/fine-arts/programs/index.md
+                          - 美术学: majors/domains/arts-design/fine-arts/programs/fine-arts/index.md
+                          - 绘画: majors/domains/arts-design/fine-arts/programs/painting/index.md
+                          - 雕塑: majors/domains/arts-design/fine-arts/programs/sculpture/index.md
+                          - 中国画: majors/domains/arts-design/fine-arts/programs/chinese-painting/index.md
                       - 方向地图: majors/domains/arts-design/fine-arts/fields/index.md
                       - 基础能力: majors/domains/arts-design/fine-arts/foundations/index.md
                       - 专业去向: majors/domains/arts-design/fine-arts/outcomes/index.md
@@ -799,7 +1122,12 @@ nav:
                   - 设计学:
                       - majors/domains/arts-design/design/index.md
                       - 看懂这个专业群: majors/domains/arts-design/design/orientation/index.md
-                      - 具体专业: majors/domains/arts-design/design/programs/index.md
+                      - 具体专业:
+                          - majors/domains/arts-design/design/programs/index.md
+                          - 视觉传达设计: majors/domains/arts-design/design/programs/visual-communication-design/index.md
+                          - 环境设计: majors/domains/arts-design/design/programs/environmental-design/index.md
+                          - 产品设计: majors/domains/arts-design/design/programs/product-design/index.md
+                          - 服装与服饰设计: majors/domains/arts-design/design/programs/fashion-apparel-design/index.md
                       - 方向地图: majors/domains/arts-design/design/fields/index.md
                       - 基础能力: majors/domains/arts-design/design/foundations/index.md
                       - 专业去向: majors/domains/arts-design/design/outcomes/index.md
@@ -809,7 +1137,12 @@ nav:
                   - 音乐与舞蹈:
                       - majors/domains/arts-design/music-dance/index.md
                       - 看懂这个专业群: majors/domains/arts-design/music-dance/orientation/index.md
-                      - 具体专业: majors/domains/arts-design/music-dance/programs/index.md
+                      - 具体专业:
+                          - majors/domains/arts-design/music-dance/programs/index.md
+                          - 音乐学: majors/domains/arts-design/music-dance/programs/musicology/index.md
+                          - 音乐表演: majors/domains/arts-design/music-dance/programs/music-performance/index.md
+                          - 舞蹈学: majors/domains/arts-design/music-dance/programs/dance-studies/index.md
+                          - 舞蹈编导: majors/domains/arts-design/music-dance/programs/dance-choreography/index.md
                       - 方向地图: majors/domains/arts-design/music-dance/fields/index.md
                       - 基础能力: majors/domains/arts-design/music-dance/foundations/index.md
                       - 专业去向: majors/domains/arts-design/music-dance/outcomes/index.md
@@ -819,7 +1152,12 @@ nav:
                   - 戏剧与影视艺术:
                       - majors/domains/arts-design/drama-film/index.md
                       - 看懂这个专业群: majors/domains/arts-design/drama-film/orientation/index.md
-                      - 具体专业: majors/domains/arts-design/drama-film/programs/index.md
+                      - 具体专业:
+                          - majors/domains/arts-design/drama-film/programs/index.md
+                          - 表演: majors/domains/arts-design/drama-film/programs/acting/index.md
+                          - 戏剧影视导演: majors/domains/arts-design/drama-film/programs/drama-film-directing/index.md
+                          - 播音与主持艺术: majors/domains/arts-design/drama-film/programs/broadcasting-hosting-art/index.md
+                          - 动画: majors/domains/arts-design/drama-film/programs/animation/index.md
                       - 方向地图: majors/domains/arts-design/drama-film/fields/index.md
                       - 基础能力: majors/domains/arts-design/drama-film/foundations/index.md
                       - 专业去向: majors/domains/arts-design/drama-film/outcomes/index.md
@@ -829,7 +1167,11 @@ nav:
                   - 艺术学理论:
                       - majors/domains/arts-design/art-theory/index.md
                       - 看懂这个专业群: majors/domains/arts-design/art-theory/orientation/index.md
-                      - 具体专业: majors/domains/arts-design/art-theory/programs/index.md
+                      - 具体专业:
+                          - majors/domains/arts-design/art-theory/programs/index.md
+                          - 艺术史论: majors/domains/arts-design/art-theory/programs/art-history-theory/index.md
+                          - 艺术管理: majors/domains/arts-design/art-theory/programs/arts-management/index.md
+                          - 非物质文化遗产保护: majors/domains/arts-design/art-theory/programs/intangible-cultural-heritage-protection/index.md
                       - 方向地图: majors/domains/arts-design/art-theory/fields/index.md
                       - 基础能力: majors/domains/arts-design/art-theory/foundations/index.md
                       - 专业去向: majors/domains/arts-design/art-theory/outcomes/index.md
@@ -838,11 +1180,21 @@ nav:
                           - 如何贡献: majors/domains/arts-design/art-theory/perspectives/how-to-contribute.md
           - 交叉学科:
               - majors/domains/interdisciplinary/index.md
+              - 适合谁:
+                  - majors/domains/interdisciplinary/fit/index.md
+                  - 优势信号: majors/domains/interdisciplinary/fit/strengths/index.md
+                  - 风险信号: majors/domains/interdisciplinary/fit/risk-signals/index.md
+              - 常见误解: majors/domains/interdisciplinary/misconceptions/index.md
               - 专业群:
                   - 数据科学:
                       - majors/domains/interdisciplinary/data-science/index.md
                       - 看懂这个专业群: majors/domains/interdisciplinary/data-science/orientation/index.md
-                      - 具体专业: majors/domains/interdisciplinary/data-science/programs/index.md
+                      - 具体专业:
+                          - majors/domains/interdisciplinary/data-science/programs/index.md
+                          - 数据科学与大数据技术: majors/domains/interdisciplinary/data-science/programs/data-science-big-data-technology/index.md
+                          - 统计学: majors/domains/interdisciplinary/data-science/programs/statistics/index.md
+                          - 信息管理与信息系统: majors/domains/interdisciplinary/data-science/programs/information-management-information-systems/index.md
+                          - 计算金融: majors/domains/interdisciplinary/data-science/programs/computational-finance/index.md
                       - 方向地图: majors/domains/interdisciplinary/data-science/fields/index.md
                       - 基础能力: majors/domains/interdisciplinary/data-science/foundations/index.md
                       - 专业去向: majors/domains/interdisciplinary/data-science/outcomes/index.md
@@ -852,7 +1204,12 @@ nav:
                   - AI+X:
                       - majors/domains/interdisciplinary/ai-plus-x/index.md
                       - 看懂这个专业群: majors/domains/interdisciplinary/ai-plus-x/orientation/index.md
-                      - 具体专业: majors/domains/interdisciplinary/ai-plus-x/programs/index.md
+                      - 具体专业:
+                          - majors/domains/interdisciplinary/ai-plus-x/programs/index.md
+                          - 人工智能: majors/domains/interdisciplinary/ai-plus-x/programs/artificial-intelligence/index.md
+                          - 智能科学与技术: majors/domains/interdisciplinary/ai-plus-x/programs/intelligent-science-technology/index.md
+                          - 机器人工程: majors/domains/interdisciplinary/ai-plus-x/programs/robotics-engineering/index.md
+                          - 智能医学工程: majors/domains/interdisciplinary/ai-plus-x/programs/intelligent-medical-engineering/index.md
                       - 方向地图: majors/domains/interdisciplinary/ai-plus-x/fields/index.md
                       - 基础能力: majors/domains/interdisciplinary/ai-plus-x/foundations/index.md
                       - 专业去向: majors/domains/interdisciplinary/ai-plus-x/outcomes/index.md
@@ -862,7 +1219,12 @@ nav:
                   - 生物医学交叉:
                       - majors/domains/interdisciplinary/biomedical-cross/index.md
                       - 看懂这个专业群: majors/domains/interdisciplinary/biomedical-cross/orientation/index.md
-                      - 具体专业: majors/domains/interdisciplinary/biomedical-cross/programs/index.md
+                      - 具体专业:
+                          - majors/domains/interdisciplinary/biomedical-cross/programs/index.md
+                          - 生物医学工程: majors/domains/interdisciplinary/biomedical-cross/programs/biomedical-engineering/index.md
+                          - 生物信息学: majors/domains/interdisciplinary/biomedical-cross/programs/bioinformatics/index.md
+                          - 智能医学工程: majors/domains/interdisciplinary/biomedical-cross/programs/intelligent-medical-engineering/index.md
+                          - 医学信息工程: majors/domains/interdisciplinary/biomedical-cross/programs/medical-information-engineering/index.md
                       - 方向地图: majors/domains/interdisciplinary/biomedical-cross/fields/index.md
                       - 基础能力: majors/domains/interdisciplinary/biomedical-cross/foundations/index.md
                       - 专业去向: majors/domains/interdisciplinary/biomedical-cross/outcomes/index.md
@@ -872,7 +1234,12 @@ nav:
                   - 金融科技:
                       - majors/domains/interdisciplinary/fintech/index.md
                       - 看懂这个专业群: majors/domains/interdisciplinary/fintech/orientation/index.md
-                      - 具体专业: majors/domains/interdisciplinary/fintech/programs/index.md
+                      - 具体专业:
+                          - majors/domains/interdisciplinary/fintech/programs/index.md
+                          - 金融科技: majors/domains/interdisciplinary/fintech/programs/fintech/index.md
+                          - 金融工程: majors/domains/interdisciplinary/fintech/programs/financial-engineering/index.md
+                          - 精算学: majors/domains/interdisciplinary/fintech/programs/actuarial-science/index.md
+                          - 互联网金融: majors/domains/interdisciplinary/fintech/programs/internet-finance/index.md
                       - 方向地图: majors/domains/interdisciplinary/fintech/fields/index.md
                       - 基础能力: majors/domains/interdisciplinary/fintech/foundations/index.md
                       - 专业去向: majors/domains/interdisciplinary/fintech/outcomes/index.md
@@ -882,7 +1249,12 @@ nav:
                   - 环境与可持续发展:
                       - majors/domains/interdisciplinary/environment-sustainability/index.md
                       - 看懂这个专业群: majors/domains/interdisciplinary/environment-sustainability/orientation/index.md
-                      - 具体专业: majors/domains/interdisciplinary/environment-sustainability/programs/index.md
+                      - 具体专业:
+                          - majors/domains/interdisciplinary/environment-sustainability/programs/index.md
+                          - 环境科学: majors/domains/interdisciplinary/environment-sustainability/programs/environmental-science/index.md
+                          - 环境工程: majors/domains/interdisciplinary/environment-sustainability/programs/environmental-engineering/index.md
+                          - 资源环境科学: majors/domains/interdisciplinary/environment-sustainability/programs/resources-environmental-science/index.md
+                          - 可持续能源: majors/domains/interdisciplinary/environment-sustainability/programs/sustainable-energy/index.md
                       - 方向地图: majors/domains/interdisciplinary/environment-sustainability/fields/index.md
                       - 基础能力: majors/domains/interdisciplinary/environment-sustainability/foundations/index.md
                       - 专业去向: majors/domains/interdisciplinary/environment-sustainability/outcomes/index.md
@@ -892,7 +1264,12 @@ nav:
                   - 数字人文:
                       - majors/domains/interdisciplinary/digital-humanities/index.md
                       - 看懂这个专业群: majors/domains/interdisciplinary/digital-humanities/orientation/index.md
-                      - 具体专业: majors/domains/interdisciplinary/digital-humanities/programs/index.md
+                      - 具体专业:
+                          - majors/domains/interdisciplinary/digital-humanities/programs/index.md
+                          - 数字人文: majors/domains/interdisciplinary/digital-humanities/programs/digital-humanities/index.md
+                          - 信息资源管理: majors/domains/interdisciplinary/digital-humanities/programs/information-resource-management/index.md
+                          - 网络与新媒体: majors/domains/interdisciplinary/digital-humanities/programs/internet-new-media/index.md
+                          - 文化产业管理: majors/domains/interdisciplinary/digital-humanities/programs/cultural-industry-management/index.md
                       - 方向地图: majors/domains/interdisciplinary/digital-humanities/fields/index.md
                       - 基础能力: majors/domains/interdisciplinary/digital-humanities/foundations/index.md
                       - 专业去向: majors/domains/interdisciplinary/digital-humanities/outcomes/index.md
