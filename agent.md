@@ -173,7 +173,7 @@ For signed personal writing, use `cases/entries/` when it has enough background,
 Do not assume every contributor will use Git correctly. The directory architecture is the final storage and publishing structure, not the only intake path. Keep two contribution routes alive:
 
 - Git-capable contributors can submit PRs directly to the right folder.
-- Casual contributors may send raw material through WPS, forms, WeChat groups, or private messages; maintainers then route it into cases, perspectives, main-page material, or the private WPS guide.
+- Casual contributors may send raw material through forms, WeChat groups, or private messages; maintainers then route it into cases, perspectives, main-page material, or the non-public material pool.
 
 The first launch should prove the loop works: collect material, route it, desensitize it, publish it on the MkDocs site, index it, and tell contributors clearly that public merged content may be republished or excerpted by "莞言瓜语".
 
@@ -183,7 +183,7 @@ Do not design WeChat official-account operations as part of the handbook technic
 
 The repository only needs a clear contributor notice: once public content is merged into the handbook, it may later be republished, excerpted, reformatted, or lightly edited for public distribution by "莞言瓜语". Respect the agreed author display name, anonymity, and desensitization boundary.
 
-Put this notice in PR templates, case templates, `how-to-contribute.md`, and the contribution page or homepage. Do not put sensitive WPS-only material into public reposting.
+Put this notice in PR templates, case templates, `how-to-contribute.md`, and the contribution page or homepage. Do not put sensitive non-public material into public reposting.
 
 ## Commit Standards
 
@@ -213,7 +213,7 @@ Comments are enabled by default across the site. Disable comments per page with 
 comments: false
 ```
 
-Comments are public and must not be used for sensitive WPS-only material, private contact information, or unverified negative claims. Disable comments on pages such as contribution rules, privacy boundaries, governance rules, or any author-specific case page where the author does not want discussion.
+Comments are public and must not be used for sensitive non-public material, private contact information, or unverified negative claims. Disable comments on pages such as contribution rules, privacy boundaries, governance rules, or any author-specific case page where the author does not want discussion.
 
 Do not invent giscus IDs. Keep `extra.giscus.repo_id` and `extra.giscus.category_id` empty until the real public GitHub repository, Discussions feature, giscus app installation, and discussion category exist. Once they exist, fill the IDs from giscus or GitHub GraphQL. Use `mapping: pathname`, `input_position: bottom`, lazy loading, and theme syncing in the comments partial.
 
