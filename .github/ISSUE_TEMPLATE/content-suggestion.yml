@@ -1,0 +1,33 @@
+name: 内容建议
+description: 提议新增或补充一个公开页面、目录或资源
+title: "[内容建议] "
+labels: ["content"]
+body:
+  - type: textarea
+    id: topic
+    attributes:
+      label: 建议主题
+      description: 这条建议希望补哪个页面、目录或问题？
+    validations:
+      required: true
+  - type: textarea
+    id: audience
+    attributes:
+      label: 适合读者
+      description: 这部分内容主要给谁看？
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 可公开参考材料
+      description: 请只放适合公开的链接、资料或概述，不要粘贴未授权聊天记录。
+    validations:
+      required: false
+  - type: checkboxes
+    id: boundary
+    attributes:
+      label: 公开边界
+      options:
+        - label: 我确认这里不包含私人联系方式、未脱敏经历、未经证实传闻或具体个人负面评价。
+          required: true

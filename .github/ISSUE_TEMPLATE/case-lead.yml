@@ -1,0 +1,35 @@
+name: 案例线索
+description: 提交一个可能适合整理成公开案例的线索
+title: "[案例线索] "
+labels: ["case"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: 案例概述
+      description: 简要说明这是什么路径或选择，不需要在 issue 里写隐私细节。
+    validations:
+      required: true
+  - type: input
+    id: class_year
+    attributes:
+      label: 莞中届别展示方式
+      description: 例如“20xx 届匿名校友”。不想公开可写“暂不公开”。
+    validations:
+      required: false
+  - type: textarea
+    id: path
+    attributes:
+      label: 路径关键词
+      description: 例如志愿填报、转专业、保研、考研、出国、实习、求职、失败后调整。
+    validations:
+      required: false
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: 授权与脱敏
+      options:
+        - label: 我理解公开案例需要经过授权、脱敏，并确认署名或匿名方式后才能入库。
+          required: true
+        - label: 我没有在这个 issue 里提交私人联系方式、未授权聊天记录或不适合公开的敏感材料。
+          required: true

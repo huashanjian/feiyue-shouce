@@ -258,36 +258,42 @@ nav:
               - 专业与学院: universities/schools/sysu/programs/index.md
               - 招生语境: universities/schools/sysu/admissions-context/index.md
               - 个人视角: universities/schools/sysu/perspectives/index.md
+              - 如何贡献: universities/schools/sysu/perspectives/how-to-contribute.md
           - 华南理工大学:
               - universities/schools/scut/index.md
               - 判断维度: universities/schools/scut/dimensions/index.md
               - 专业与学院: universities/schools/scut/programs/index.md
               - 招生语境: universities/schools/scut/admissions-context/index.md
               - 个人视角: universities/schools/scut/perspectives/index.md
+              - 如何贡献: universities/schools/scut/perspectives/how-to-contribute.md
           - 暨南大学:
               - universities/schools/jnu/index.md
               - 判断维度: universities/schools/jnu/dimensions/index.md
               - 专业与学院: universities/schools/jnu/programs/index.md
               - 招生语境: universities/schools/jnu/admissions-context/index.md
               - 个人视角: universities/schools/jnu/perspectives/index.md
+              - 如何贡献: universities/schools/jnu/perspectives/how-to-contribute.md
           - 华南师范大学:
               - universities/schools/scnu/index.md
               - 判断维度: universities/schools/scnu/dimensions/index.md
               - 专业与学院: universities/schools/scnu/programs/index.md
               - 招生语境: universities/schools/scnu/admissions-context/index.md
               - 个人视角: universities/schools/scnu/perspectives/index.md
+              - 如何贡献: universities/schools/scnu/perspectives/how-to-contribute.md
           - 广东外语外贸大学:
               - universities/schools/gdufs/index.md
               - 判断维度: universities/schools/gdufs/dimensions/index.md
               - 专业与学院: universities/schools/gdufs/programs/index.md
               - 招生语境: universities/schools/gdufs/admissions-context/index.md
               - 个人视角: universities/schools/gdufs/perspectives/index.md
+              - 如何贡献: universities/schools/gdufs/perspectives/how-to-contribute.md
           - 深圳大学:
               - universities/schools/szu/index.md
               - 判断维度: universities/schools/szu/dimensions/index.md
               - 专业与学院: universities/schools/szu/programs/index.md
               - 招生语境: universities/schools/szu/admissions-context/index.md
               - 个人视角: universities/schools/szu/perspectives/index.md
+              - 如何贡献: universities/schools/szu/perspectives/how-to-contribute.md
       - 院校个人视角:
           - universities/perspectives/index.md
           - 如何贡献: universities/perspectives/how-to-contribute.md
@@ -360,6 +366,7 @@ nav:
               - 保研面试: pathways/further-study/recommendation/interviews/index.md
               - 保研材料: pathways/further-study/recommendation/documents/index.md
               - 个人视角: pathways/further-study/recommendation/perspectives/index.md
+              - 如何贡献: pathways/further-study/recommendation/perspectives/how-to-contribute.md
           - 考研:
               - pathways/further-study/entrance-exam/index.md
               - 考研择校: pathways/further-study/entrance-exam/target-selection/index.md
@@ -368,6 +375,7 @@ nav:
               - 二战与调剂: pathways/further-study/entrance-exam/retake-and-adjustment/index.md
               - 复试: pathways/further-study/entrance-exam/reexamination/index.md
               - 个人视角: pathways/further-study/entrance-exam/perspectives/index.md
+              - 如何贡献: pathways/further-study/entrance-exam/perspectives/how-to-contribute.md
           - 境外申请:
               - pathways/further-study/overseas/index.md
               - 申请地区: pathways/further-study/overseas/regions/index.md
@@ -376,6 +384,7 @@ nav:
               - 资金与奖学金: pathways/further-study/overseas/funding/index.md
               - 申请时间线: pathways/further-study/overseas/timeline/index.md
               - 个人视角: pathways/further-study/overseas/perspectives/index.md
+              - 如何贡献: pathways/further-study/overseas/perspectives/how-to-contribute.md
           - 博士路径:
               - pathways/further-study/doctoral-paths/index.md
               - 直博: pathways/further-study/doctoral-paths/direct-phd/index.md
@@ -388,6 +397,7 @@ nav:
               - 间隔年规划: pathways/further-study/gap-year/planning/index.md
               - 间隔年风险: pathways/further-study/gap-year/risks/index.md
               - 个人视角: pathways/further-study/gap-year/perspectives/index.md
+              - 如何贡献: pathways/further-study/gap-year/perspectives/how-to-contribute.md
       - 求职:
           - pathways/career/index.md
           - 方向判断:
@@ -403,6 +413,7 @@ nav:
               - 暑期实习: pathways/career/internship/summer-internship/index.md
               - 转正: pathways/career/internship/return-offer/index.md
               - 个人视角: pathways/career/internship/perspectives/index.md
+              - 如何贡献: pathways/career/internship/perspectives/how-to-contribute.md
           - 正式求职:
               - pathways/career/job-search/index.md
               - 校园招聘: pathways/career/job-search/campus-recruiting/index.md
@@ -435,7 +446,9 @@ nav:
               - Offer 谈判: pathways/career/workplace-transition/offer-negotiation/index.md
               - 入职: pathways/career/workplace-transition/onboarding/index.md
               - 工作的第一年: pathways/career/workplace-transition/first-year/index.md
-          - 求职个人视角: pathways/career/perspectives/index.md
+          - 求职个人视角:
+              - pathways/career/perspectives/index.md
+              - 如何贡献: pathways/career/perspectives/how-to-contribute.md
       - 下一站个人视角:
           - pathways/perspectives/index.md
           - 如何贡献: pathways/perspectives/how-to-contribute.md
@@ -453,6 +466,7 @@ nav:
           - 按关键词: cases/indexes/by-keywords/index.md
       - 案例模板:
           - cases/templates/index.md
+          - 通用案例模板: cases/templates/case-template.md
           - 完整路径案例: cases/templates/full-path-case.md
           - 访谈式案例: cases/templates/interview-style-case.md
   - 共用资料:
@@ -461,6 +475,10 @@ nav:
           - commons/stories/index.md
           - 如何贡献: commons/stories/how-to-contribute.md
       - 常用资源: commons/resources/index.md
+      - 投稿模板:
+          - commons/templates/index.md
+          - 通用页面模板: commons/templates/page-template.md
+          - 个人视角模板: commons/templates/perspective-template.md
       - 注册表:
           - commons/registries/index.md
           - 大学代码: commons/registries/universities.md
