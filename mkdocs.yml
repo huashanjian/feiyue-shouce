@@ -154,12 +154,6 @@ nav:
           - majors/domains/index.md
           - 工科:
               - majors/domains/engineering/index.md
-              - 工科分类地图:
-                  - majors/domains/engineering/map/index.md
-                  - 信息与计算: majors/domains/engineering/map/information-computing/index.md
-                  - 机械与能源: majors/domains/engineering/map/mechanical-energy/index.md
-                  - 土木与环境: majors/domains/engineering/map/civil-environment/index.md
-                  - 材料与化工: majors/domains/engineering/map/materials-chemical/index.md
               - 适合谁:
                   - majors/domains/engineering/fit/index.md
                   - 优势信号: majors/domains/engineering/fit/strengths/index.md
@@ -205,27 +199,706 @@ nav:
                       - 经验观点:
                           - majors/domains/engineering/eecs/perspectives/index.md
                           - 如何贡献: majors/domains/engineering/eecs/perspectives/how-to-contribute.md
-                  - 机械与自动化: majors/domains/engineering/mechanical-automation/index.md
-                  - 能源动力: majors/domains/engineering/energy-power/index.md
-                  - 材料: majors/domains/engineering/materials/index.md
-                  - 化工与制药: majors/domains/engineering/chemical-pharmaceutical/index.md
-                  - 土木建筑: majors/domains/engineering/civil-architecture/index.md
-                  - 水利环境与安全: majors/domains/engineering/water-environment-safety/index.md
-                  - 交通运输: majors/domains/engineering/transportation/index.md
-                  - 航空航天与海洋: majors/domains/engineering/aerospace-marine/index.md
-                  - 地矿测绘: majors/domains/engineering/geoscience-mining/index.md
-                  - 生物医学工程: majors/domains/engineering/biomedical-engineering/index.md
-                  - 工业与系统工程: majors/domains/engineering/industrial-systems/index.md
-          - 理科: majors/domains/science/index.md
-          - 医学: majors/domains/medicine/index.md
-          - 农林与环境: majors/domains/agriculture/index.md
-          - 经管与经济: majors/domains/business-economics-management/index.md
-          - 法政: majors/domains/law-politics/index.md
-          - 人文学科: majors/domains/humanities/index.md
-          - 传播与媒体: majors/domains/communication-media/index.md
-          - 教育与体育: majors/domains/education-sports/index.md
-          - 艺术与设计: majors/domains/arts-design/index.md
-          - 交叉学科: majors/domains/interdisciplinary/index.md
+                  - 机械与自动化:
+                      - majors/domains/engineering/mechanical-automation/index.md
+                      - 看懂这个专业群: majors/domains/engineering/mechanical-automation/orientation/index.md
+                      - 具体专业: majors/domains/engineering/mechanical-automation/programs/index.md
+                      - 方向地图: majors/domains/engineering/mechanical-automation/fields/index.md
+                      - 基础能力: majors/domains/engineering/mechanical-automation/foundations/index.md
+                      - 专业去向: majors/domains/engineering/mechanical-automation/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/mechanical-automation/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/mechanical-automation/perspectives/how-to-contribute.md
+                  - 能源动力:
+                      - majors/domains/engineering/energy-power/index.md
+                      - 看懂这个专业群: majors/domains/engineering/energy-power/orientation/index.md
+                      - 具体专业: majors/domains/engineering/energy-power/programs/index.md
+                      - 方向地图: majors/domains/engineering/energy-power/fields/index.md
+                      - 基础能力: majors/domains/engineering/energy-power/foundations/index.md
+                      - 专业去向: majors/domains/engineering/energy-power/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/energy-power/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/energy-power/perspectives/how-to-contribute.md
+                  - 材料:
+                      - majors/domains/engineering/materials/index.md
+                      - 看懂这个专业群: majors/domains/engineering/materials/orientation/index.md
+                      - 具体专业: majors/domains/engineering/materials/programs/index.md
+                      - 方向地图: majors/domains/engineering/materials/fields/index.md
+                      - 基础能力: majors/domains/engineering/materials/foundations/index.md
+                      - 专业去向: majors/domains/engineering/materials/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/materials/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/materials/perspectives/how-to-contribute.md
+                  - 化工与制药:
+                      - majors/domains/engineering/chemical-pharmaceutical/index.md
+                      - 看懂这个专业群: majors/domains/engineering/chemical-pharmaceutical/orientation/index.md
+                      - 具体专业: majors/domains/engineering/chemical-pharmaceutical/programs/index.md
+                      - 方向地图: majors/domains/engineering/chemical-pharmaceutical/fields/index.md
+                      - 基础能力: majors/domains/engineering/chemical-pharmaceutical/foundations/index.md
+                      - 专业去向: majors/domains/engineering/chemical-pharmaceutical/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/chemical-pharmaceutical/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/chemical-pharmaceutical/perspectives/how-to-contribute.md
+                  - 土木建筑:
+                      - majors/domains/engineering/civil-architecture/index.md
+                      - 看懂这个专业群: majors/domains/engineering/civil-architecture/orientation/index.md
+                      - 具体专业: majors/domains/engineering/civil-architecture/programs/index.md
+                      - 方向地图: majors/domains/engineering/civil-architecture/fields/index.md
+                      - 基础能力: majors/domains/engineering/civil-architecture/foundations/index.md
+                      - 专业去向: majors/domains/engineering/civil-architecture/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/civil-architecture/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/civil-architecture/perspectives/how-to-contribute.md
+                  - 水利环境与安全:
+                      - majors/domains/engineering/water-environment-safety/index.md
+                      - 看懂这个专业群: majors/domains/engineering/water-environment-safety/orientation/index.md
+                      - 具体专业: majors/domains/engineering/water-environment-safety/programs/index.md
+                      - 方向地图: majors/domains/engineering/water-environment-safety/fields/index.md
+                      - 基础能力: majors/domains/engineering/water-environment-safety/foundations/index.md
+                      - 专业去向: majors/domains/engineering/water-environment-safety/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/water-environment-safety/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/water-environment-safety/perspectives/how-to-contribute.md
+                  - 交通运输:
+                      - majors/domains/engineering/transportation/index.md
+                      - 看懂这个专业群: majors/domains/engineering/transportation/orientation/index.md
+                      - 具体专业: majors/domains/engineering/transportation/programs/index.md
+                      - 方向地图: majors/domains/engineering/transportation/fields/index.md
+                      - 基础能力: majors/domains/engineering/transportation/foundations/index.md
+                      - 专业去向: majors/domains/engineering/transportation/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/transportation/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/transportation/perspectives/how-to-contribute.md
+                  - 航空航天与海洋:
+                      - majors/domains/engineering/aerospace-marine/index.md
+                      - 看懂这个专业群: majors/domains/engineering/aerospace-marine/orientation/index.md
+                      - 具体专业: majors/domains/engineering/aerospace-marine/programs/index.md
+                      - 方向地图: majors/domains/engineering/aerospace-marine/fields/index.md
+                      - 基础能力: majors/domains/engineering/aerospace-marine/foundations/index.md
+                      - 专业去向: majors/domains/engineering/aerospace-marine/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/aerospace-marine/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/aerospace-marine/perspectives/how-to-contribute.md
+                  - 地矿测绘:
+                      - majors/domains/engineering/geoscience-mining/index.md
+                      - 看懂这个专业群: majors/domains/engineering/geoscience-mining/orientation/index.md
+                      - 具体专业: majors/domains/engineering/geoscience-mining/programs/index.md
+                      - 方向地图: majors/domains/engineering/geoscience-mining/fields/index.md
+                      - 基础能力: majors/domains/engineering/geoscience-mining/foundations/index.md
+                      - 专业去向: majors/domains/engineering/geoscience-mining/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/geoscience-mining/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/geoscience-mining/perspectives/how-to-contribute.md
+                  - 生物医学工程:
+                      - majors/domains/engineering/biomedical-engineering/index.md
+                      - 看懂这个专业群: majors/domains/engineering/biomedical-engineering/orientation/index.md
+                      - 具体专业: majors/domains/engineering/biomedical-engineering/programs/index.md
+                      - 方向地图: majors/domains/engineering/biomedical-engineering/fields/index.md
+                      - 基础能力: majors/domains/engineering/biomedical-engineering/foundations/index.md
+                      - 专业去向: majors/domains/engineering/biomedical-engineering/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/biomedical-engineering/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/biomedical-engineering/perspectives/how-to-contribute.md
+                  - 工业与系统工程:
+                      - majors/domains/engineering/industrial-systems/index.md
+                      - 看懂这个专业群: majors/domains/engineering/industrial-systems/orientation/index.md
+                      - 具体专业: majors/domains/engineering/industrial-systems/programs/index.md
+                      - 方向地图: majors/domains/engineering/industrial-systems/fields/index.md
+                      - 基础能力: majors/domains/engineering/industrial-systems/foundations/index.md
+                      - 专业去向: majors/domains/engineering/industrial-systems/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/engineering/industrial-systems/perspectives/index.md
+                          - 如何贡献: majors/domains/engineering/industrial-systems/perspectives/how-to-contribute.md
+          - 理科:
+              - majors/domains/science/index.md
+              - 专业群:
+                  - 数学与统计:
+                      - majors/domains/science/mathematics-statistics/index.md
+                      - 看懂这个专业群: majors/domains/science/mathematics-statistics/orientation/index.md
+                      - 具体专业: majors/domains/science/mathematics-statistics/programs/index.md
+                      - 方向地图: majors/domains/science/mathematics-statistics/fields/index.md
+                      - 基础能力: majors/domains/science/mathematics-statistics/foundations/index.md
+                      - 专业去向: majors/domains/science/mathematics-statistics/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/science/mathematics-statistics/perspectives/index.md
+                          - 如何贡献: majors/domains/science/mathematics-statistics/perspectives/how-to-contribute.md
+                  - 物理与天文:
+                      - majors/domains/science/physics-astronomy/index.md
+                      - 看懂这个专业群: majors/domains/science/physics-astronomy/orientation/index.md
+                      - 具体专业: majors/domains/science/physics-astronomy/programs/index.md
+                      - 方向地图: majors/domains/science/physics-astronomy/fields/index.md
+                      - 基础能力: majors/domains/science/physics-astronomy/foundations/index.md
+                      - 专业去向: majors/domains/science/physics-astronomy/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/science/physics-astronomy/perspectives/index.md
+                          - 如何贡献: majors/domains/science/physics-astronomy/perspectives/how-to-contribute.md
+                  - 化学:
+                      - majors/domains/science/chemistry/index.md
+                      - 看懂这个专业群: majors/domains/science/chemistry/orientation/index.md
+                      - 具体专业: majors/domains/science/chemistry/programs/index.md
+                      - 方向地图: majors/domains/science/chemistry/fields/index.md
+                      - 基础能力: majors/domains/science/chemistry/foundations/index.md
+                      - 专业去向: majors/domains/science/chemistry/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/science/chemistry/perspectives/index.md
+                          - 如何贡献: majors/domains/science/chemistry/perspectives/how-to-contribute.md
+                  - 生命科学:
+                      - majors/domains/science/biology/index.md
+                      - 看懂这个专业群: majors/domains/science/biology/orientation/index.md
+                      - 具体专业: majors/domains/science/biology/programs/index.md
+                      - 方向地图: majors/domains/science/biology/fields/index.md
+                      - 基础能力: majors/domains/science/biology/foundations/index.md
+                      - 专业去向: majors/domains/science/biology/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/science/biology/perspectives/index.md
+                          - 如何贡献: majors/domains/science/biology/perspectives/how-to-contribute.md
+                  - 地球与环境科学:
+                      - majors/domains/science/earth-environment/index.md
+                      - 看懂这个专业群: majors/domains/science/earth-environment/orientation/index.md
+                      - 具体专业: majors/domains/science/earth-environment/programs/index.md
+                      - 方向地图: majors/domains/science/earth-environment/fields/index.md
+                      - 基础能力: majors/domains/science/earth-environment/foundations/index.md
+                      - 专业去向: majors/domains/science/earth-environment/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/science/earth-environment/perspectives/index.md
+                          - 如何贡献: majors/domains/science/earth-environment/perspectives/how-to-contribute.md
+                  - 心理与认知科学:
+                      - majors/domains/science/psychology-cognitive-science/index.md
+                      - 看懂这个专业群: majors/domains/science/psychology-cognitive-science/orientation/index.md
+                      - 具体专业: majors/domains/science/psychology-cognitive-science/programs/index.md
+                      - 方向地图: majors/domains/science/psychology-cognitive-science/fields/index.md
+                      - 基础能力: majors/domains/science/psychology-cognitive-science/foundations/index.md
+                      - 专业去向: majors/domains/science/psychology-cognitive-science/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/science/psychology-cognitive-science/perspectives/index.md
+                          - 如何贡献: majors/domains/science/psychology-cognitive-science/perspectives/how-to-contribute.md
+          - 医学:
+              - majors/domains/medicine/index.md
+              - 专业群:
+                  - 临床医学:
+                      - majors/domains/medicine/clinical-medicine/index.md
+                      - 看懂这个专业群: majors/domains/medicine/clinical-medicine/orientation/index.md
+                      - 具体专业: majors/domains/medicine/clinical-medicine/programs/index.md
+                      - 方向地图: majors/domains/medicine/clinical-medicine/fields/index.md
+                      - 基础能力: majors/domains/medicine/clinical-medicine/foundations/index.md
+                      - 专业去向: majors/domains/medicine/clinical-medicine/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/medicine/clinical-medicine/perspectives/index.md
+                          - 如何贡献: majors/domains/medicine/clinical-medicine/perspectives/how-to-contribute.md
+                  - 口腔医学:
+                      - majors/domains/medicine/stomatology/index.md
+                      - 看懂这个专业群: majors/domains/medicine/stomatology/orientation/index.md
+                      - 具体专业: majors/domains/medicine/stomatology/programs/index.md
+                      - 方向地图: majors/domains/medicine/stomatology/fields/index.md
+                      - 基础能力: majors/domains/medicine/stomatology/foundations/index.md
+                      - 专业去向: majors/domains/medicine/stomatology/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/medicine/stomatology/perspectives/index.md
+                          - 如何贡献: majors/domains/medicine/stomatology/perspectives/how-to-contribute.md
+                  - 公共卫生与预防医学:
+                      - majors/domains/medicine/public-health/index.md
+                      - 看懂这个专业群: majors/domains/medicine/public-health/orientation/index.md
+                      - 具体专业: majors/domains/medicine/public-health/programs/index.md
+                      - 方向地图: majors/domains/medicine/public-health/fields/index.md
+                      - 基础能力: majors/domains/medicine/public-health/foundations/index.md
+                      - 专业去向: majors/domains/medicine/public-health/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/medicine/public-health/perspectives/index.md
+                          - 如何贡献: majors/domains/medicine/public-health/perspectives/how-to-contribute.md
+                  - 药学:
+                      - majors/domains/medicine/pharmacy/index.md
+                      - 看懂这个专业群: majors/domains/medicine/pharmacy/orientation/index.md
+                      - 具体专业: majors/domains/medicine/pharmacy/programs/index.md
+                      - 方向地图: majors/domains/medicine/pharmacy/fields/index.md
+                      - 基础能力: majors/domains/medicine/pharmacy/foundations/index.md
+                      - 专业去向: majors/domains/medicine/pharmacy/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/medicine/pharmacy/perspectives/index.md
+                          - 如何贡献: majors/domains/medicine/pharmacy/perspectives/how-to-contribute.md
+                  - 护理学:
+                      - majors/domains/medicine/nursing/index.md
+                      - 看懂这个专业群: majors/domains/medicine/nursing/orientation/index.md
+                      - 具体专业: majors/domains/medicine/nursing/programs/index.md
+                      - 方向地图: majors/domains/medicine/nursing/fields/index.md
+                      - 基础能力: majors/domains/medicine/nursing/foundations/index.md
+                      - 专业去向: majors/domains/medicine/nursing/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/medicine/nursing/perspectives/index.md
+                          - 如何贡献: majors/domains/medicine/nursing/perspectives/how-to-contribute.md
+                  - 医学技术:
+                      - majors/domains/medicine/medical-technology/index.md
+                      - 看懂这个专业群: majors/domains/medicine/medical-technology/orientation/index.md
+                      - 具体专业: majors/domains/medicine/medical-technology/programs/index.md
+                      - 方向地图: majors/domains/medicine/medical-technology/fields/index.md
+                      - 基础能力: majors/domains/medicine/medical-technology/foundations/index.md
+                      - 专业去向: majors/domains/medicine/medical-technology/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/medicine/medical-technology/perspectives/index.md
+                          - 如何贡献: majors/domains/medicine/medical-technology/perspectives/how-to-contribute.md
+                  - 中医药:
+                      - majors/domains/medicine/chinese-medicine/index.md
+                      - 看懂这个专业群: majors/domains/medicine/chinese-medicine/orientation/index.md
+                      - 具体专业: majors/domains/medicine/chinese-medicine/programs/index.md
+                      - 方向地图: majors/domains/medicine/chinese-medicine/fields/index.md
+                      - 基础能力: majors/domains/medicine/chinese-medicine/foundations/index.md
+                      - 专业去向: majors/domains/medicine/chinese-medicine/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/medicine/chinese-medicine/perspectives/index.md
+                          - 如何贡献: majors/domains/medicine/chinese-medicine/perspectives/how-to-contribute.md
+          - 农林与环境:
+              - majors/domains/agriculture/index.md
+              - 专业群:
+                  - 植物生产:
+                      - majors/domains/agriculture/plant-production/index.md
+                      - 看懂这个专业群: majors/domains/agriculture/plant-production/orientation/index.md
+                      - 具体专业: majors/domains/agriculture/plant-production/programs/index.md
+                      - 方向地图: majors/domains/agriculture/plant-production/fields/index.md
+                      - 基础能力: majors/domains/agriculture/plant-production/foundations/index.md
+                      - 专业去向: majors/domains/agriculture/plant-production/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/agriculture/plant-production/perspectives/index.md
+                          - 如何贡献: majors/domains/agriculture/plant-production/perspectives/how-to-contribute.md
+                  - 动物生产与动物医学:
+                      - majors/domains/agriculture/animal-production-medicine/index.md
+                      - 看懂这个专业群: majors/domains/agriculture/animal-production-medicine/orientation/index.md
+                      - 具体专业: majors/domains/agriculture/animal-production-medicine/programs/index.md
+                      - 方向地图: majors/domains/agriculture/animal-production-medicine/fields/index.md
+                      - 基础能力: majors/domains/agriculture/animal-production-medicine/foundations/index.md
+                      - 专业去向: majors/domains/agriculture/animal-production-medicine/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/agriculture/animal-production-medicine/perspectives/index.md
+                          - 如何贡献: majors/domains/agriculture/animal-production-medicine/perspectives/how-to-contribute.md
+                  - 林学与草业:
+                      - majors/domains/agriculture/forestry-grassland/index.md
+                      - 看懂这个专业群: majors/domains/agriculture/forestry-grassland/orientation/index.md
+                      - 具体专业: majors/domains/agriculture/forestry-grassland/programs/index.md
+                      - 方向地图: majors/domains/agriculture/forestry-grassland/fields/index.md
+                      - 基础能力: majors/domains/agriculture/forestry-grassland/foundations/index.md
+                      - 专业去向: majors/domains/agriculture/forestry-grassland/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/agriculture/forestry-grassland/perspectives/index.md
+                          - 如何贡献: majors/domains/agriculture/forestry-grassland/perspectives/how-to-contribute.md
+                  - 食品科学与工程:
+                      - majors/domains/agriculture/food-science/index.md
+                      - 看懂这个专业群: majors/domains/agriculture/food-science/orientation/index.md
+                      - 具体专业: majors/domains/agriculture/food-science/programs/index.md
+                      - 方向地图: majors/domains/agriculture/food-science/fields/index.md
+                      - 基础能力: majors/domains/agriculture/food-science/foundations/index.md
+                      - 专业去向: majors/domains/agriculture/food-science/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/agriculture/food-science/perspectives/index.md
+                          - 如何贡献: majors/domains/agriculture/food-science/perspectives/how-to-contribute.md
+                  - 农业资源与环境:
+                      - majors/domains/agriculture/agricultural-resources-environment/index.md
+                      - 看懂这个专业群: majors/domains/agriculture/agricultural-resources-environment/orientation/index.md
+                      - 具体专业: majors/domains/agriculture/agricultural-resources-environment/programs/index.md
+                      - 方向地图: majors/domains/agriculture/agricultural-resources-environment/fields/index.md
+                      - 基础能力: majors/domains/agriculture/agricultural-resources-environment/foundations/index.md
+                      - 专业去向: majors/domains/agriculture/agricultural-resources-environment/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/agriculture/agricultural-resources-environment/perspectives/index.md
+                          - 如何贡献: majors/domains/agriculture/agricultural-resources-environment/perspectives/how-to-contribute.md
+                  - 智慧农业:
+                      - majors/domains/agriculture/smart-agriculture/index.md
+                      - 看懂这个专业群: majors/domains/agriculture/smart-agriculture/orientation/index.md
+                      - 具体专业: majors/domains/agriculture/smart-agriculture/programs/index.md
+                      - 方向地图: majors/domains/agriculture/smart-agriculture/fields/index.md
+                      - 基础能力: majors/domains/agriculture/smart-agriculture/foundations/index.md
+                      - 专业去向: majors/domains/agriculture/smart-agriculture/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/agriculture/smart-agriculture/perspectives/index.md
+                          - 如何贡献: majors/domains/agriculture/smart-agriculture/perspectives/how-to-contribute.md
+          - 经管与经济:
+              - majors/domains/business-economics-management/index.md
+              - 专业群:
+                  - 经济与金融:
+                      - majors/domains/business-economics-management/economics-finance/index.md
+                      - 看懂这个专业群: majors/domains/business-economics-management/economics-finance/orientation/index.md
+                      - 具体专业: majors/domains/business-economics-management/economics-finance/programs/index.md
+                      - 方向地图: majors/domains/business-economics-management/economics-finance/fields/index.md
+                      - 基础能力: majors/domains/business-economics-management/economics-finance/foundations/index.md
+                      - 专业去向: majors/domains/business-economics-management/economics-finance/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/business-economics-management/economics-finance/perspectives/index.md
+                          - 如何贡献: majors/domains/business-economics-management/economics-finance/perspectives/how-to-contribute.md
+                  - 会计与审计:
+                      - majors/domains/business-economics-management/accounting-auditing/index.md
+                      - 看懂这个专业群: majors/domains/business-economics-management/accounting-auditing/orientation/index.md
+                      - 具体专业: majors/domains/business-economics-management/accounting-auditing/programs/index.md
+                      - 方向地图: majors/domains/business-economics-management/accounting-auditing/fields/index.md
+                      - 基础能力: majors/domains/business-economics-management/accounting-auditing/foundations/index.md
+                      - 专业去向: majors/domains/business-economics-management/accounting-auditing/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/business-economics-management/accounting-auditing/perspectives/index.md
+                          - 如何贡献: majors/domains/business-economics-management/accounting-auditing/perspectives/how-to-contribute.md
+                  - 工商管理:
+                      - majors/domains/business-economics-management/business-administration/index.md
+                      - 看懂这个专业群: majors/domains/business-economics-management/business-administration/orientation/index.md
+                      - 具体专业: majors/domains/business-economics-management/business-administration/programs/index.md
+                      - 方向地图: majors/domains/business-economics-management/business-administration/fields/index.md
+                      - 基础能力: majors/domains/business-economics-management/business-administration/foundations/index.md
+                      - 专业去向: majors/domains/business-economics-management/business-administration/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/business-economics-management/business-administration/perspectives/index.md
+                          - 如何贡献: majors/domains/business-economics-management/business-administration/perspectives/how-to-contribute.md
+                  - 管理科学与工程:
+                      - majors/domains/business-economics-management/management-science-engineering/index.md
+                      - 看懂这个专业群: majors/domains/business-economics-management/management-science-engineering/orientation/index.md
+                      - 具体专业: majors/domains/business-economics-management/management-science-engineering/programs/index.md
+                      - 方向地图: majors/domains/business-economics-management/management-science-engineering/fields/index.md
+                      - 基础能力: majors/domains/business-economics-management/management-science-engineering/foundations/index.md
+                      - 专业去向: majors/domains/business-economics-management/management-science-engineering/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/business-economics-management/management-science-engineering/perspectives/index.md
+                          - 如何贡献: majors/domains/business-economics-management/management-science-engineering/perspectives/how-to-contribute.md
+                  - 公共管理:
+                      - majors/domains/business-economics-management/public-management/index.md
+                      - 看懂这个专业群: majors/domains/business-economics-management/public-management/orientation/index.md
+                      - 具体专业: majors/domains/business-economics-management/public-management/programs/index.md
+                      - 方向地图: majors/domains/business-economics-management/public-management/fields/index.md
+                      - 基础能力: majors/domains/business-economics-management/public-management/foundations/index.md
+                      - 专业去向: majors/domains/business-economics-management/public-management/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/business-economics-management/public-management/perspectives/index.md
+                          - 如何贡献: majors/domains/business-economics-management/public-management/perspectives/how-to-contribute.md
+                  - 电商与物流:
+                      - majors/domains/business-economics-management/ecommerce-logistics/index.md
+                      - 看懂这个专业群: majors/domains/business-economics-management/ecommerce-logistics/orientation/index.md
+                      - 具体专业: majors/domains/business-economics-management/ecommerce-logistics/programs/index.md
+                      - 方向地图: majors/domains/business-economics-management/ecommerce-logistics/fields/index.md
+                      - 基础能力: majors/domains/business-economics-management/ecommerce-logistics/foundations/index.md
+                      - 专业去向: majors/domains/business-economics-management/ecommerce-logistics/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/business-economics-management/ecommerce-logistics/perspectives/index.md
+                          - 如何贡献: majors/domains/business-economics-management/ecommerce-logistics/perspectives/how-to-contribute.md
+          - 法政:
+              - majors/domains/law-politics/index.md
+              - 专业群:
+                  - 法学:
+                      - majors/domains/law-politics/law/index.md
+                      - 看懂这个专业群: majors/domains/law-politics/law/orientation/index.md
+                      - 具体专业: majors/domains/law-politics/law/programs/index.md
+                      - 方向地图: majors/domains/law-politics/law/fields/index.md
+                      - 基础能力: majors/domains/law-politics/law/foundations/index.md
+                      - 专业去向: majors/domains/law-politics/law/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/law-politics/law/perspectives/index.md
+                          - 如何贡献: majors/domains/law-politics/law/perspectives/how-to-contribute.md
+                  - 政治学:
+                      - majors/domains/law-politics/political-science/index.md
+                      - 看懂这个专业群: majors/domains/law-politics/political-science/orientation/index.md
+                      - 具体专业: majors/domains/law-politics/political-science/programs/index.md
+                      - 方向地图: majors/domains/law-politics/political-science/fields/index.md
+                      - 基础能力: majors/domains/law-politics/political-science/foundations/index.md
+                      - 专业去向: majors/domains/law-politics/political-science/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/law-politics/political-science/perspectives/index.md
+                          - 如何贡献: majors/domains/law-politics/political-science/perspectives/how-to-contribute.md
+                  - 社会学与社会工作:
+                      - majors/domains/law-politics/sociology-social-work/index.md
+                      - 看懂这个专业群: majors/domains/law-politics/sociology-social-work/orientation/index.md
+                      - 具体专业: majors/domains/law-politics/sociology-social-work/programs/index.md
+                      - 方向地图: majors/domains/law-politics/sociology-social-work/fields/index.md
+                      - 基础能力: majors/domains/law-politics/sociology-social-work/foundations/index.md
+                      - 专业去向: majors/domains/law-politics/sociology-social-work/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/law-politics/sociology-social-work/perspectives/index.md
+                          - 如何贡献: majors/domains/law-politics/sociology-social-work/perspectives/how-to-contribute.md
+                  - 公安与安全治理:
+                      - majors/domains/law-politics/public-security/index.md
+                      - 看懂这个专业群: majors/domains/law-politics/public-security/orientation/index.md
+                      - 具体专业: majors/domains/law-politics/public-security/programs/index.md
+                      - 方向地图: majors/domains/law-politics/public-security/fields/index.md
+                      - 基础能力: majors/domains/law-politics/public-security/foundations/index.md
+                      - 专业去向: majors/domains/law-politics/public-security/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/law-politics/public-security/perspectives/index.md
+                          - 如何贡献: majors/domains/law-politics/public-security/perspectives/how-to-contribute.md
+                  - 马克思主义理论:
+                      - majors/domains/law-politics/marxism/index.md
+                      - 看懂这个专业群: majors/domains/law-politics/marxism/orientation/index.md
+                      - 具体专业: majors/domains/law-politics/marxism/programs/index.md
+                      - 方向地图: majors/domains/law-politics/marxism/fields/index.md
+                      - 基础能力: majors/domains/law-politics/marxism/foundations/index.md
+                      - 专业去向: majors/domains/law-politics/marxism/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/law-politics/marxism/perspectives/index.md
+                          - 如何贡献: majors/domains/law-politics/marxism/perspectives/how-to-contribute.md
+          - 人文学科:
+              - majors/domains/humanities/index.md
+              - 专业群:
+                  - 中国语言文学:
+                      - majors/domains/humanities/chinese-language-literature/index.md
+                      - 看懂这个专业群: majors/domains/humanities/chinese-language-literature/orientation/index.md
+                      - 具体专业: majors/domains/humanities/chinese-language-literature/programs/index.md
+                      - 方向地图: majors/domains/humanities/chinese-language-literature/fields/index.md
+                      - 基础能力: majors/domains/humanities/chinese-language-literature/foundations/index.md
+                      - 专业去向: majors/domains/humanities/chinese-language-literature/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/humanities/chinese-language-literature/perspectives/index.md
+                          - 如何贡献: majors/domains/humanities/chinese-language-literature/perspectives/how-to-contribute.md
+                  - 外国语言文学:
+                      - majors/domains/humanities/foreign-languages-literatures/index.md
+                      - 看懂这个专业群: majors/domains/humanities/foreign-languages-literatures/orientation/index.md
+                      - 具体专业: majors/domains/humanities/foreign-languages-literatures/programs/index.md
+                      - 方向地图: majors/domains/humanities/foreign-languages-literatures/fields/index.md
+                      - 基础能力: majors/domains/humanities/foreign-languages-literatures/foundations/index.md
+                      - 专业去向: majors/domains/humanities/foreign-languages-literatures/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/humanities/foreign-languages-literatures/perspectives/index.md
+                          - 如何贡献: majors/domains/humanities/foreign-languages-literatures/perspectives/how-to-contribute.md
+                  - 历史学:
+                      - majors/domains/humanities/history/index.md
+                      - 看懂这个专业群: majors/domains/humanities/history/orientation/index.md
+                      - 具体专业: majors/domains/humanities/history/programs/index.md
+                      - 方向地图: majors/domains/humanities/history/fields/index.md
+                      - 基础能力: majors/domains/humanities/history/foundations/index.md
+                      - 专业去向: majors/domains/humanities/history/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/humanities/history/perspectives/index.md
+                          - 如何贡献: majors/domains/humanities/history/perspectives/how-to-contribute.md
+                  - 哲学:
+                      - majors/domains/humanities/philosophy/index.md
+                      - 看懂这个专业群: majors/domains/humanities/philosophy/orientation/index.md
+                      - 具体专业: majors/domains/humanities/philosophy/programs/index.md
+                      - 方向地图: majors/domains/humanities/philosophy/fields/index.md
+                      - 基础能力: majors/domains/humanities/philosophy/foundations/index.md
+                      - 专业去向: majors/domains/humanities/philosophy/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/humanities/philosophy/perspectives/index.md
+                          - 如何贡献: majors/domains/humanities/philosophy/perspectives/how-to-contribute.md
+                  - 图书情报与档案:
+                      - majors/domains/humanities/library-archives-information/index.md
+                      - 看懂这个专业群: majors/domains/humanities/library-archives-information/orientation/index.md
+                      - 具体专业: majors/domains/humanities/library-archives-information/programs/index.md
+                      - 方向地图: majors/domains/humanities/library-archives-information/fields/index.md
+                      - 基础能力: majors/domains/humanities/library-archives-information/foundations/index.md
+                      - 专业去向: majors/domains/humanities/library-archives-information/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/humanities/library-archives-information/perspectives/index.md
+                          - 如何贡献: majors/domains/humanities/library-archives-information/perspectives/how-to-contribute.md
+          - 传播与媒体:
+              - majors/domains/communication-media/index.md
+              - 专业群:
+                  - 新闻传播:
+                      - majors/domains/communication-media/journalism-communication/index.md
+                      - 看懂这个专业群: majors/domains/communication-media/journalism-communication/orientation/index.md
+                      - 具体专业: majors/domains/communication-media/journalism-communication/programs/index.md
+                      - 方向地图: majors/domains/communication-media/journalism-communication/fields/index.md
+                      - 基础能力: majors/domains/communication-media/journalism-communication/foundations/index.md
+                      - 专业去向: majors/domains/communication-media/journalism-communication/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/communication-media/journalism-communication/perspectives/index.md
+                          - 如何贡献: majors/domains/communication-media/journalism-communication/perspectives/how-to-contribute.md
+                  - 广告与公共关系:
+                      - majors/domains/communication-media/advertising-public-relations/index.md
+                      - 看懂这个专业群: majors/domains/communication-media/advertising-public-relations/orientation/index.md
+                      - 具体专业: majors/domains/communication-media/advertising-public-relations/programs/index.md
+                      - 方向地图: majors/domains/communication-media/advertising-public-relations/fields/index.md
+                      - 基础能力: majors/domains/communication-media/advertising-public-relations/foundations/index.md
+                      - 专业去向: majors/domains/communication-media/advertising-public-relations/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/communication-media/advertising-public-relations/perspectives/index.md
+                          - 如何贡献: majors/domains/communication-media/advertising-public-relations/perspectives/how-to-contribute.md
+                  - 出版与编辑:
+                      - majors/domains/communication-media/publishing-editing/index.md
+                      - 看懂这个专业群: majors/domains/communication-media/publishing-editing/orientation/index.md
+                      - 具体专业: majors/domains/communication-media/publishing-editing/programs/index.md
+                      - 方向地图: majors/domains/communication-media/publishing-editing/fields/index.md
+                      - 基础能力: majors/domains/communication-media/publishing-editing/foundations/index.md
+                      - 专业去向: majors/domains/communication-media/publishing-editing/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/communication-media/publishing-editing/perspectives/index.md
+                          - 如何贡献: majors/domains/communication-media/publishing-editing/perspectives/how-to-contribute.md
+                  - 广播电视与影视:
+                      - majors/domains/communication-media/film-television/index.md
+                      - 看懂这个专业群: majors/domains/communication-media/film-television/orientation/index.md
+                      - 具体专业: majors/domains/communication-media/film-television/programs/index.md
+                      - 方向地图: majors/domains/communication-media/film-television/fields/index.md
+                      - 基础能力: majors/domains/communication-media/film-television/foundations/index.md
+                      - 专业去向: majors/domains/communication-media/film-television/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/communication-media/film-television/perspectives/index.md
+                          - 如何贡献: majors/domains/communication-media/film-television/perspectives/how-to-contribute.md
+                  - 数字媒体:
+                      - majors/domains/communication-media/digital-media/index.md
+                      - 看懂这个专业群: majors/domains/communication-media/digital-media/orientation/index.md
+                      - 具体专业: majors/domains/communication-media/digital-media/programs/index.md
+                      - 方向地图: majors/domains/communication-media/digital-media/fields/index.md
+                      - 基础能力: majors/domains/communication-media/digital-media/foundations/index.md
+                      - 专业去向: majors/domains/communication-media/digital-media/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/communication-media/digital-media/perspectives/index.md
+                          - 如何贡献: majors/domains/communication-media/digital-media/perspectives/how-to-contribute.md
+          - 教育与体育:
+              - majors/domains/education-sports/index.md
+              - 专业群:
+                  - 教育学:
+                      - majors/domains/education-sports/education/index.md
+                      - 看懂这个专业群: majors/domains/education-sports/education/orientation/index.md
+                      - 具体专业: majors/domains/education-sports/education/programs/index.md
+                      - 方向地图: majors/domains/education-sports/education/fields/index.md
+                      - 基础能力: majors/domains/education-sports/education/foundations/index.md
+                      - 专业去向: majors/domains/education-sports/education/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/education-sports/education/perspectives/index.md
+                          - 如何贡献: majors/domains/education-sports/education/perspectives/how-to-contribute.md
+                  - 师范教育:
+                      - majors/domains/education-sports/teacher-education/index.md
+                      - 看懂这个专业群: majors/domains/education-sports/teacher-education/orientation/index.md
+                      - 具体专业: majors/domains/education-sports/teacher-education/programs/index.md
+                      - 方向地图: majors/domains/education-sports/teacher-education/fields/index.md
+                      - 基础能力: majors/domains/education-sports/teacher-education/foundations/index.md
+                      - 专业去向: majors/domains/education-sports/teacher-education/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/education-sports/teacher-education/perspectives/index.md
+                          - 如何贡献: majors/domains/education-sports/teacher-education/perspectives/how-to-contribute.md
+                  - 教育技术:
+                      - majors/domains/education-sports/educational-technology/index.md
+                      - 看懂这个专业群: majors/domains/education-sports/educational-technology/orientation/index.md
+                      - 具体专业: majors/domains/education-sports/educational-technology/programs/index.md
+                      - 方向地图: majors/domains/education-sports/educational-technology/fields/index.md
+                      - 基础能力: majors/domains/education-sports/educational-technology/foundations/index.md
+                      - 专业去向: majors/domains/education-sports/educational-technology/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/education-sports/educational-technology/perspectives/index.md
+                          - 如何贡献: majors/domains/education-sports/educational-technology/perspectives/how-to-contribute.md
+                  - 体育学:
+                      - majors/domains/education-sports/sports-science/index.md
+                      - 看懂这个专业群: majors/domains/education-sports/sports-science/orientation/index.md
+                      - 具体专业: majors/domains/education-sports/sports-science/programs/index.md
+                      - 方向地图: majors/domains/education-sports/sports-science/fields/index.md
+                      - 基础能力: majors/domains/education-sports/sports-science/foundations/index.md
+                      - 专业去向: majors/domains/education-sports/sports-science/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/education-sports/sports-science/perspectives/index.md
+                          - 如何贡献: majors/domains/education-sports/sports-science/perspectives/how-to-contribute.md
+                  - 特殊教育:
+                      - majors/domains/education-sports/special-education/index.md
+                      - 看懂这个专业群: majors/domains/education-sports/special-education/orientation/index.md
+                      - 具体专业: majors/domains/education-sports/special-education/programs/index.md
+                      - 方向地图: majors/domains/education-sports/special-education/fields/index.md
+                      - 基础能力: majors/domains/education-sports/special-education/foundations/index.md
+                      - 专业去向: majors/domains/education-sports/special-education/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/education-sports/special-education/perspectives/index.md
+                          - 如何贡献: majors/domains/education-sports/special-education/perspectives/how-to-contribute.md
+          - 艺术与设计:
+              - majors/domains/arts-design/index.md
+              - 专业群:
+                  - 美术学:
+                      - majors/domains/arts-design/fine-arts/index.md
+                      - 看懂这个专业群: majors/domains/arts-design/fine-arts/orientation/index.md
+                      - 具体专业: majors/domains/arts-design/fine-arts/programs/index.md
+                      - 方向地图: majors/domains/arts-design/fine-arts/fields/index.md
+                      - 基础能力: majors/domains/arts-design/fine-arts/foundations/index.md
+                      - 专业去向: majors/domains/arts-design/fine-arts/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/arts-design/fine-arts/perspectives/index.md
+                          - 如何贡献: majors/domains/arts-design/fine-arts/perspectives/how-to-contribute.md
+                  - 设计学:
+                      - majors/domains/arts-design/design/index.md
+                      - 看懂这个专业群: majors/domains/arts-design/design/orientation/index.md
+                      - 具体专业: majors/domains/arts-design/design/programs/index.md
+                      - 方向地图: majors/domains/arts-design/design/fields/index.md
+                      - 基础能力: majors/domains/arts-design/design/foundations/index.md
+                      - 专业去向: majors/domains/arts-design/design/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/arts-design/design/perspectives/index.md
+                          - 如何贡献: majors/domains/arts-design/design/perspectives/how-to-contribute.md
+                  - 音乐与舞蹈:
+                      - majors/domains/arts-design/music-dance/index.md
+                      - 看懂这个专业群: majors/domains/arts-design/music-dance/orientation/index.md
+                      - 具体专业: majors/domains/arts-design/music-dance/programs/index.md
+                      - 方向地图: majors/domains/arts-design/music-dance/fields/index.md
+                      - 基础能力: majors/domains/arts-design/music-dance/foundations/index.md
+                      - 专业去向: majors/domains/arts-design/music-dance/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/arts-design/music-dance/perspectives/index.md
+                          - 如何贡献: majors/domains/arts-design/music-dance/perspectives/how-to-contribute.md
+                  - 戏剧与影视艺术:
+                      - majors/domains/arts-design/drama-film/index.md
+                      - 看懂这个专业群: majors/domains/arts-design/drama-film/orientation/index.md
+                      - 具体专业: majors/domains/arts-design/drama-film/programs/index.md
+                      - 方向地图: majors/domains/arts-design/drama-film/fields/index.md
+                      - 基础能力: majors/domains/arts-design/drama-film/foundations/index.md
+                      - 专业去向: majors/domains/arts-design/drama-film/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/arts-design/drama-film/perspectives/index.md
+                          - 如何贡献: majors/domains/arts-design/drama-film/perspectives/how-to-contribute.md
+                  - 艺术学理论:
+                      - majors/domains/arts-design/art-theory/index.md
+                      - 看懂这个专业群: majors/domains/arts-design/art-theory/orientation/index.md
+                      - 具体专业: majors/domains/arts-design/art-theory/programs/index.md
+                      - 方向地图: majors/domains/arts-design/art-theory/fields/index.md
+                      - 基础能力: majors/domains/arts-design/art-theory/foundations/index.md
+                      - 专业去向: majors/domains/arts-design/art-theory/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/arts-design/art-theory/perspectives/index.md
+                          - 如何贡献: majors/domains/arts-design/art-theory/perspectives/how-to-contribute.md
+          - 交叉学科:
+              - majors/domains/interdisciplinary/index.md
+              - 专业群:
+                  - 数据科学:
+                      - majors/domains/interdisciplinary/data-science/index.md
+                      - 看懂这个专业群: majors/domains/interdisciplinary/data-science/orientation/index.md
+                      - 具体专业: majors/domains/interdisciplinary/data-science/programs/index.md
+                      - 方向地图: majors/domains/interdisciplinary/data-science/fields/index.md
+                      - 基础能力: majors/domains/interdisciplinary/data-science/foundations/index.md
+                      - 专业去向: majors/domains/interdisciplinary/data-science/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/interdisciplinary/data-science/perspectives/index.md
+                          - 如何贡献: majors/domains/interdisciplinary/data-science/perspectives/how-to-contribute.md
+                  - AI+X:
+                      - majors/domains/interdisciplinary/ai-plus-x/index.md
+                      - 看懂这个专业群: majors/domains/interdisciplinary/ai-plus-x/orientation/index.md
+                      - 具体专业: majors/domains/interdisciplinary/ai-plus-x/programs/index.md
+                      - 方向地图: majors/domains/interdisciplinary/ai-plus-x/fields/index.md
+                      - 基础能力: majors/domains/interdisciplinary/ai-plus-x/foundations/index.md
+                      - 专业去向: majors/domains/interdisciplinary/ai-plus-x/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/interdisciplinary/ai-plus-x/perspectives/index.md
+                          - 如何贡献: majors/domains/interdisciplinary/ai-plus-x/perspectives/how-to-contribute.md
+                  - 生物医学交叉:
+                      - majors/domains/interdisciplinary/biomedical-cross/index.md
+                      - 看懂这个专业群: majors/domains/interdisciplinary/biomedical-cross/orientation/index.md
+                      - 具体专业: majors/domains/interdisciplinary/biomedical-cross/programs/index.md
+                      - 方向地图: majors/domains/interdisciplinary/biomedical-cross/fields/index.md
+                      - 基础能力: majors/domains/interdisciplinary/biomedical-cross/foundations/index.md
+                      - 专业去向: majors/domains/interdisciplinary/biomedical-cross/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/interdisciplinary/biomedical-cross/perspectives/index.md
+                          - 如何贡献: majors/domains/interdisciplinary/biomedical-cross/perspectives/how-to-contribute.md
+                  - 金融科技:
+                      - majors/domains/interdisciplinary/fintech/index.md
+                      - 看懂这个专业群: majors/domains/interdisciplinary/fintech/orientation/index.md
+                      - 具体专业: majors/domains/interdisciplinary/fintech/programs/index.md
+                      - 方向地图: majors/domains/interdisciplinary/fintech/fields/index.md
+                      - 基础能力: majors/domains/interdisciplinary/fintech/foundations/index.md
+                      - 专业去向: majors/domains/interdisciplinary/fintech/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/interdisciplinary/fintech/perspectives/index.md
+                          - 如何贡献: majors/domains/interdisciplinary/fintech/perspectives/how-to-contribute.md
+                  - 环境与可持续发展:
+                      - majors/domains/interdisciplinary/environment-sustainability/index.md
+                      - 看懂这个专业群: majors/domains/interdisciplinary/environment-sustainability/orientation/index.md
+                      - 具体专业: majors/domains/interdisciplinary/environment-sustainability/programs/index.md
+                      - 方向地图: majors/domains/interdisciplinary/environment-sustainability/fields/index.md
+                      - 基础能力: majors/domains/interdisciplinary/environment-sustainability/foundations/index.md
+                      - 专业去向: majors/domains/interdisciplinary/environment-sustainability/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/interdisciplinary/environment-sustainability/perspectives/index.md
+                          - 如何贡献: majors/domains/interdisciplinary/environment-sustainability/perspectives/how-to-contribute.md
+                  - 数字人文:
+                      - majors/domains/interdisciplinary/digital-humanities/index.md
+                      - 看懂这个专业群: majors/domains/interdisciplinary/digital-humanities/orientation/index.md
+                      - 具体专业: majors/domains/interdisciplinary/digital-humanities/programs/index.md
+                      - 方向地图: majors/domains/interdisciplinary/digital-humanities/fields/index.md
+                      - 基础能力: majors/domains/interdisciplinary/digital-humanities/foundations/index.md
+                      - 专业去向: majors/domains/interdisciplinary/digital-humanities/outcomes/index.md
+                      - 经验观点:
+                          - majors/domains/interdisciplinary/digital-humanities/perspectives/index.md
+                          - 如何贡献: majors/domains/interdisciplinary/digital-humanities/perspectives/how-to-contribute.md
       - 个人视角:
           - majors/perspectives/index.md
           - 如何贡献: majors/perspectives/how-to-contribute.md

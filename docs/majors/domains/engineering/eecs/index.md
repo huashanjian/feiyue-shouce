@@ -18,6 +18,8 @@
 
 [经验观点](perspectives/index.md)
 
+[如何贡献经验观点](perspectives/how-to-contribute.md)
+
 [返回工科](../index.md)
 
 </div>
