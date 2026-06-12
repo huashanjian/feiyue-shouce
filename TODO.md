@@ -17,7 +17,7 @@
 - [x] `P0` 直接删除旧 `docs/`，按新架构重建。
 - [x] `P0` 直接重写 `mkdocs.yml`，不做旧路径兼容。
 - [x] `P0` 第一目标是把新站 build 跑通，不做旧内容迁移。
-- [ ] `P0` 主站是公开正本，WPS 指北保存群内敏感材料。
+- [x] `P0` 主站是公开正本，WPS 指北保存群内敏感材料。
 - [x] `P0` 公众号不作为技术模块；只在投稿说明中告知公开内容可能被莞言瓜语转载、摘编或二次传播。
 - [x] `P0` 每个复杂对象优先文件夹 + `index.md`，不要为了少建目录把复杂主题压成单个 `.md`。
 - [x] `P0` `mkdocs.yml` 是读者导航，不是完整文件树。
@@ -43,16 +43,16 @@
 ### 0.2 评论系统
 
 - [x] `P0` 第一版评论系统使用 giscus + GitHub Discussions。
-- [ ] `P0` GitHub 仓库开启 Discussions。
-- [ ] `P0` 安装 giscus app。
-- [ ] `P0` 创建评论分类。
+- [x] `P0` GitHub 仓库开启 Discussions。
+- [x] `P0` 安装 giscus app。
+- [x] `P0` 创建评论分类。
   - 建议：`Comments` 或 `General`。
 - [x] `P0` giscus 使用 `pathname` 映射。
   - 验收：页面标题变化不影响评论归属。
 - [x] `P0` 评论默认全站开启。
 - [x] `P0` 支持通过 frontmatter `comments: false` 关闭单页评论。
 - [x] `P0` 明确投稿说明、隐私边界、治理规则等页面可以关闭评论。
-- [ ] `P0` 评论治理规则写入贡献说明或评论说明页。
+- [x] `P0` 评论治理规则写入贡献说明或评论说明页。
 
 ### 0.3 内容语言
 
@@ -66,15 +66,15 @@
 
 ### 0.4 公开边界
 
-- [ ] `P0` 确认 WPS 指北和飞跃手册主站的边界文案。
+- [x] `P0` 确认 WPS 指北和飞跃手册主站的边界文案。
   - 验收：首页、投稿说明、案例模板里的公开/私密边界一致。
 - [x] `P0` 确认公开转载告知的固定文案。
   - 建议文案：`合并到飞跃手册主站的公开内容，未来可能被莞言瓜语转载、摘编、排版或二次传播；维护者会尊重作者署名、匿名和脱敏约定。`
   - 验收：PR 模板、案例模板、投稿说明均使用同一语义。
-- [ ] `P0` 确认匿名作者展示格式。
+- [x] `P0` 确认匿名作者展示格式。
   - 示例：`20xx 届 匿名校友`、`20xx 届 某理工科校友`。
   - 验收：案例模板里有明确字段。
-- [ ] `P0` 确认哪些信息永远不进公开仓库。
+- [x] `P0` 确认哪些信息永远不进公开仓库。
   - 至少包括：具体个人负面评价、未经证实传闻、群内敏感内幕、未授权聊天记录、隐私联系方式。
 
 ### 0.5 第一版范围
@@ -112,36 +112,36 @@
 
 ### 1.2 MkDocs 配置
 
-- [ ] `P1` 真实 GitHub 仓库创建后，更新 `mkdocs.yml` 的 `repo_url` 和 `repo_name`。
+- [x] `P1` 真实 GitHub 仓库创建后，更新 `mkdocs.yml` 的 `repo_url` 和 `repo_name`。
   - 验收：指向 GitHub 主仓。
-- [ ] `P1` 真实 GitHub 仓库创建后，更新 `edit_uri`。
+- [x] `P1` 真实 GitHub 仓库创建后，更新 `edit_uri`。
   - 验收：页面上的编辑链接能打开正确仓库路径。
 - [x] `P0` 设置 `theme.custom_dir: docs/overrides`。
   - 验收：giscus comments partial 能被 MkDocs Material 加载。
-- [ ] `P0` 将 theme palette 从默认 indigo 调整为符合 `DESIGN.md` 的暖纸色/墨蓝体系。
+- [x] `P0` 将 theme palette 从默认 indigo 调整为符合 `DESIGN.md` 的暖纸色/墨蓝体系。
 - [x] `P0` 保留 MkDocs Material，不引入独立前端框架。
-- [ ] `P0` 保留中文搜索和导航能力。
-- [ ] `P0` 开启或确认以下功能：
+- [x] `P0` 保留中文搜索和导航能力。
+- [x] `P0` 开启或确认以下功能：
   - `navigation.sections`
   - `navigation.indexes`
   - `navigation.top`
   - `search.highlight`
   - `toc.permalink`
-- [ ] `P1` 评估是否需要：
+- [x] `P1` 评估是否需要：
   - `navigation.tabs`
   - `navigation.footer`
   - `content.action.edit`
   - `content.code.copy`
-- [ ] `P0` 重建 `nav`，只使用新英文目录。
+- [x] `P0` 重建 `nav`，只使用新英文目录。
   - 验收：`mkdocs.yml` 不再引用 `zhuanye/`、`yuanxiao/`、`zhiyuan/`、`zaixiao/`、`shenzao/`、`qiuzhi/`、`fulu/`。
-- [ ] `P0` C 类容器在 nav 中只列 `index.md`。
+- [x] `P0` C 类容器在 nav 中只列 `index.md`。
 
 ### 1.3 评论基础
 
-- [ ] `P0` 创建 `docs/overrides/partials/comments.html`。
-- [ ] `P0` comments partial 使用 giscus。
-- [ ] `P0` comments partial 用 `{% if page.meta.comments is not false %}` 控制显示。
-- [ ] `P0` giscus 配置项包括：
+- [x] `P0` 创建 `docs/overrides/partials/comments.html`。
+- [x] `P0` comments partial 使用 giscus。
+- [x] `P0` comments partial 用 `{% if page.meta.comments is not false %}` 控制显示。
+- [x] `P0` giscus 配置项包括：
   - `data-repo`
   - `data-repo-id`
   - `data-category`
@@ -150,14 +150,14 @@
   - `data-reactions-enabled="1"`
   - `data-input-position="bottom"`
   - `data-lang="zh-CN"`
-- [ ] `P0` 支持明暗主题切换时同步 giscus 主题。
-- [ ] `P0` 默认页面不需要写 `comments: true`。
-- [ ] `P0` 不适合评论的页面写 `comments: false`。
+- [x] `P0` 支持明暗主题切换时同步 giscus 主题。
+- [x] `P0` 默认页面不需要写 `comments: true`。
+- [x] `P0` 不适合评论的页面写 `comments: false`。
 
 ### 1.4 视觉基础
 
-- [ ] `P0` 新建或更新 `docs/stylesheets/extra.css`。
-- [ ] `P0` 实现 `DESIGN.md` 中的基础色彩：
+- [x] `P0` 新建或更新 `docs/stylesheets/extra.css`。
+- [x] `P0` 实现 `DESIGN.md` 中的基础色彩：
   - `paper-bg`
   - `paper-surface`
   - `ink-main`
@@ -166,26 +166,26 @@
   - `line-warm`
   - `soft-green`
   - `soft-red`
-- [ ] `P0` 设置中文正文宽度和行距。
+- [x] `P0` 设置中文正文宽度和行距。
   - 验收：桌面端长文不铺满全屏；移动端不挤。
-- [ ] `P0` 设置链接颜色和 hover 状态。
-- [ ] `P0` 设置表格样式，避免默认表格太硬。
-- [ ] `P0` 设置 blockquote / admonition 的纸感样式。
+- [x] `P0` 设置链接颜色和 hover 状态。
+- [x] `P0` 设置表格样式，避免默认表格太硬。
+- [x] `P0` 设置 blockquote / admonition 的纸感样式。
 - [ ] `P0` 设置案例引用样式。
-- [ ] `P1` 准备 logo 或文字标识。
+- [x] `P1` 准备 logo 或文字标识。
   - 落点：`docs/assets/logo/`。
 - [ ] `P1` 准备默认 OG 图片。
   - 落点：`docs/assets/og/`。
-- [ ] `P1` 检查移动端显示。
+- [x] `P1` 检查移动端显示。
   - 验收：360px 宽度下标题、导航、表格不明显溢出。
 
 ### 1.4 Git 协作设置
 
-- [ ] `P0` 新建 `CONTRIBUTING.md`。
+- [x] `P0` 新建 `CONTRIBUTING.md`。
   - 包含：投稿入口、公开转载告知、commit 规范、PR 拆分规则、脱敏规则。
-- [ ] `P0` 新建 PR 模板。
+- [x] `P0` 新建 PR 模板。
   - 路径：`.github/pull_request_template.md`。
-- [ ] `P0` PR 模板包含：
+- [x] `P0` PR 模板包含：
   - 改动类型
   - 涉及目录
   - 是否新增公开内容
@@ -193,9 +193,9 @@
   - 是否已脱敏
   - 是否接受公开转载告知
   - 本地检查结果
-- [ ] `P0` 新建 issue 模板或投稿建议模板。
+- [x] `P0` 新建 issue 模板或投稿建议模板。
   - 路径：`.github/ISSUE_TEMPLATE/`。
-- [ ] `P0` 写入 commit message 规范：
+- [x] `P0` 写入 commit message 规范：
   - `content(scope): summary`
   - `case(scope): summary`
   - `index(scope): summary`
@@ -203,11 +203,11 @@
   - `style(scope): summary`
   - `fix(scope): summary`
   - `chore(scope): summary`
-- [ ] `P1` 评估是否要上 commitlint。
+- [x] `P1` 评估是否要上 commitlint。
   - 第一版可以只文档约束，不强制 CI 卡住贡献者。
-- [ ] `P0` 明确 PR 拆分规则：
+- [x] `P0` 明确 PR 拆分规则：
   - 内容、目录重建、样式、导航、配置尽量分开。
-- [ ] `P0` 明确维护者 merge 策略：
+- [x] `P0` 明确维护者 merge 策略：
   - squash merge 还是保留 commits。
   - 验收：贡献说明里有一句话。
 
@@ -221,7 +221,7 @@
   - 验收：新 `docs/` 只包含第一版需要的英文目录。
 - [x] `P0` 整体重写 `mkdocs.yml`。
   - 验收：nav 只引用新架构的第一版页面。
-- [ ] `P0` 不为旧路径做 redirects。
+- [x] `P0` 不为旧路径做 redirects。
   - 验收：`mkdocs.yml` 中不需要配置旧路径重定向。
 
 ### 2.2 一级目录
@@ -517,33 +517,33 @@
 - [x] `P0` 选定部署平台：GitHub Pages。
 - [x] `P0` 配置 build command。
   - 命令：`mkdocs build --strict`
-- [ ] `P0` 配置 output directory。
+- [x] `P0` 配置 output directory。
   - 目录：`site`
-- [ ] `P0` 配置生产分支。
+- [x] `P0` 配置生产分支。
   - 通常：`main`
 - [x] `P0` 添加 GitHub Actions Pages workflow。
   - 验收：push 到 `main` 后自动构建并发布。
-- [ ] `P0` 首次部署成功。
-- [ ] `P0` 记录线上 URL。
-- [ ] `P0` 从手机访问线上 URL。
-- [ ] `P0` 从非登录环境访问线上 URL。
+- [x] `P0` 首次部署成功。
+- [x] `P0` 记录线上 URL。
+- [x] `P0` 从手机访问线上 URL。
+- [x] `P0` 从非登录环境访问线上 URL。
 - [ ] `P1` 配置 404 页面。
 - [ ] `P1` 配置 sitemap / robots。
 - [ ] `P1` 配置自有域名和 HTTPS。
 
 ### 6.2 上线前验收
 
-- [ ] `P0` 首页可读。
-- [ ] `P0` 搜索可用。
-- [ ] `P0` 左侧导航可用。
-- [ ] `P0` 移动端导航可用。
-- [ ] `P0` 至少一个案例模板页面可访问。
-- [ ] `P0` 至少一个投稿说明页面可访问。
-- [ ] `P0` 公开转载告知可在贡献路径中看到。
-- [ ] `P0` 默认页面能显示 giscus 评论区。
-- [ ] `P0` 写了 `comments: false` 的页面不显示评论区。
-- [ ] `P0` 页面没有大面积空白或明显样式错乱。
-- [ ] `P0` 没有把旧草稿目录暴露在主导航中。
+- [x] `P0` 首页可读。
+- [x] `P0` 搜索可用。
+- [x] `P0` 左侧导航可用。
+- [x] `P0` 移动端导航可用。
+- [x] `P0` 至少一个案例模板页面可访问。
+- [x] `P0` 至少一个投稿说明页面可访问。
+- [x] `P0` 公开转载告知可在贡献路径中看到。
+- [x] `P0` 默认页面能显示 giscus 评论区。
+- [x] `P0` 写了 `comments: false` 的页面不显示评论区。
+- [x] `P0` 页面没有大面积空白或明显样式错乱。
+- [x] `P0` 没有把旧草稿目录暴露在主导航中。
 
 ## Phase 7：第一批内容
 

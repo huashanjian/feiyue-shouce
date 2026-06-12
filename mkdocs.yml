@@ -2,6 +2,9 @@ site_name: 莞中人飞跃手册
 site_description: 东莞中学校友共建的大学公开指南
 site_author: 莞言瓜语
 site_url: https://huashanjian.github.io/feiyue-shouce/
+repo_url: https://github.com/huashanjian/feiyue-shouce
+repo_name: huashanjian/feiyue-shouce
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -20,6 +23,8 @@ theme:
     - navigation.top
     - navigation.tracking
     - navigation.instant.progress
+    - content.action.edit
+    - content.code.copy
     - toc.follow
     - search.highlight
     - search.share
