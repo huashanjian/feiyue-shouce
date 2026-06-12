@@ -30,6 +30,16 @@
 
 第一版不把完整 `.tex` 文件作为内容源。
 
+## 本地环境
+
+建议使用 Python 3.11 或更新版本；GitHub Actions 当前使用 Python 3.12。首次启动可按下面方式安装依赖：
+
+```bash
+pip install -r requirements.txt
+python scripts/validate_architecture.py
+mkdocs serve
+```
+
 ## 提交流程
 
 1. 找到最接近的目录；不确定时先放到 `cases/` 或对应 `perspectives/`。

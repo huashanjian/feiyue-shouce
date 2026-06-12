@@ -25,6 +25,19 @@ last_updated:
 - 常见误区
 - 下一步可以看什么
 
+## 案例引用
+
+如需引用校友案例，优先使用下面的结构，保留背景和适用边界：
+
+```html
+<aside class="dghs-case-ref">
+  <p class="dghs-case-ref-meta">case · 20xx</p>
+  <p class="dghs-case-ref-title">案例标题</p>
+  <p>用两三句话说明这个案例提供了什么证据或提醒。</p>
+  <p class="dghs-case-ref-limit">适用边界：说明哪些读者不应该直接照搬。</p>
+</aside>
+```
+
 ## 贡献提示
 
 欢迎补充结构化材料、公开资源和已脱敏经验。不要提交未授权聊天记录、具体个人负面评价、未经证实传闻或隐私联系方式。

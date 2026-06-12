@@ -1545,4 +1545,5 @@ nav:
           - 贡献规则: commons/governance/contribution-rules.md
           - 评论规则: commons/governance/comments.md
           - 图片与附件规则: commons/governance/media-assets/index.md
+          - 公式渲染测试: commons/governance/math-render-test.md
       - 贡献者: commons/contributors.md

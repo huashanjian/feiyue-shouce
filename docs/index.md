@@ -66,8 +66,25 @@ hide:
 </div>
 </section>
 
+<section class="dghs-directory" markdown>
+
+## 阅读路线
+
+<div class="dghs-link-list" markdown>
+
+[高中生](start-here/reading-routes/high-school-students/index.md)
+
+[大一新生](start-here/reading-routes/college-freshmen/index.md)
+
+[想换专业或方向的人](start-here/reading-routes/major-switchers/index.md)
+
+[准备升学或就业的人](start-here/reading-routes/graduating-students/index.md)
+
+</div>
+</section>
+
 <p class="dghs-fineprint">
-公开合并到手册的内容，未来可能被“莞言瓜语”转载、摘编、重新排版或轻度编辑；作者署名、匿名和脱敏边界会被保留。
+主站只放适合公开检索和长期维护的内容；群内敏感材料、未脱敏细节和不适合公开流通的信息留在 WPS 指北。公开合并到手册的内容，未来可能被莞言瓜语转载、摘编、排版或二次传播；作者署名、匿名和脱敏边界会被保留。
 </p>
 
 

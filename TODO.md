@@ -31,7 +31,7 @@
 
 - [x] `P0` 工程主仓使用 GitHub。
   - 验收：仓库、部署、评论、PR 协作均按 GitHub 设计；真实仓库创建后再把 `repo_url` / `repo_name` 填回 `mkdocs.yml`。
-- [ ] `P1` 暂不配置 Gitee 镜像。
+- [x] `P1` 暂不配置 Gitee 镜像。
   - 验收：如后续需要，只作为代码镜像，不作为 Pages 发布入口。
 - [x] `P0` 第一版部署平台使用 GitHub Pages。
   - 验收：Cloudflare Pages 只作为后续备选方案。
@@ -61,7 +61,7 @@
 - [x] `P0` 支持 Markdown 内 LaTeX 数学公式。
 - [x] `P0` 在 `mkdocs.yml` 中启用 `pymdownx.arithmatex`。
 - [x] `P0` 在 `mkdocs.yml` 中引入 MathJax。
-- [ ] `P0` 写一个公式渲染测试页面或在首页留一个隐藏检查片段。
+- [x] `P0` 写一个公式渲染测试页面或在首页留一个隐藏检查片段。
 - [x] `P0` 不支持整篇 `.tex` 作为内容源。
 
 ### 0.4 公开边界
@@ -106,7 +106,7 @@
   - 通用：`mkdocs serve`
 - [x] `P0` 本地跑通 `mkdocs build --strict`。
   - 验收：命令退出码为 0。
-- [ ] `P1` 记录 Python 版本建议。
+- [x] `P1` 记录 Python 版本建议。
   - 建议：Python 3.11+。
 - [ ] `P1` 如果依赖版本出现不稳定，锁定主要依赖版本。
 
@@ -171,7 +171,7 @@
 - [x] `P0` 设置链接颜色和 hover 状态。
 - [x] `P0` 设置表格样式，避免默认表格太硬。
 - [x] `P0` 设置 blockquote / admonition 的纸感样式。
-- [ ] `P0` 设置案例引用样式。
+- [x] `P0` 设置案例引用样式。
 - [x] `P1` 准备 logo 或文字标识。
   - 落点：`docs/assets/logo/`。
 - [ ] `P1` 准备默认 OG 图片。
@@ -243,15 +243,15 @@
 
 ### 2.3 `start-here/`
 
-- [ ] `P0` 创建 `docs/start-here/mindsets/index.md`。
-- [ ] `P1` 创建 `docs/start-here/mindsets/gaokao-inertia/index.md`。
-- [ ] `P1` 创建 `docs/start-here/mindsets/passive-learning/index.md`。
-- [ ] `P1` 创建 `docs/start-here/mindsets/grade-only-thinking/index.md`。
-- [ ] `P1` 创建 `docs/start-here/mindsets/information-literacy/index.md`。
-- [ ] `P1` 创建 `docs/start-here/mindsets/asking-for-help/index.md`。
-- [ ] `P0` 创建 `docs/start-here/first-questions/index.md`。
-- [ ] `P1` 创建 `docs/start-here/reading-routes/index.md`。
-- [ ] `P1` 写清高中生、大一新生、转专业同学、毕业阶段同学的阅读路线。
+- [x] `P0` 创建 `docs/start-here/mindsets/index.md`。
+- [x] `P1` 创建 `docs/start-here/mindsets/gaokao-inertia/index.md`。
+- [x] `P1` 创建 `docs/start-here/mindsets/passive-learning/index.md`。
+- [x] `P1` 创建 `docs/start-here/mindsets/grade-only-thinking/index.md`。
+- [x] `P1` 创建 `docs/start-here/mindsets/information-literacy/index.md`。
+- [x] `P1` 创建 `docs/start-here/mindsets/asking-for-help/index.md`。
+- [x] `P0` 创建 `docs/start-here/first-questions/index.md`。
+- [x] `P1` 创建 `docs/start-here/reading-routes/index.md`。
+- [x] `P1` 写清高中生、大一新生、转专业同学、毕业阶段同学的阅读路线。
 
 ### 2.4 `admissions/`
 
@@ -261,21 +261,21 @@
 - [x] `P0` 创建 `docs/admissions/decision-models/index.md`。
 - [x] `P0` 创建 `docs/admissions/workflows/index.md`。
 - [x] `P0` 创建 `docs/admissions/perspectives/index.md`。
-- [ ] `P0` 创建 `docs/admissions/perspectives/how-to-contribute.md`。
-- [ ] `P1` 创建 `docs/admissions/decision-models/major-vs-school.md`。
-- [ ] `P1` 创建 `docs/admissions/decision-models/city-vs-ranking.md`。
-- [ ] `P1` 创建 `docs/admissions/decision-models/reach-match-safety.md`。
-- [ ] `P1` 创建 `docs/admissions/workflows/final-checklist.md`。
-- [ ] `P0` 明确 admissions 不维护每年会变的录取规则。
+- [x] `P0` 创建 `docs/admissions/perspectives/how-to-contribute.md`。
+- [x] `P1` 创建 `docs/admissions/decision-models/major-vs-school.md`。
+- [x] `P1` 创建 `docs/admissions/decision-models/city-vs-ranking.md`。
+- [x] `P1` 创建 `docs/admissions/decision-models/reach-match-safety.md`。
+- [x] `P1` 创建 `docs/admissions/workflows/final-checklist.md`。
+- [x] `P0` 明确 admissions 不维护每年会变的录取规则。
 
 ### 2.5 `majors/`
 
 - [x] `P0` 创建 `docs/majors/methodology/index.md`。
-- [ ] `P0` 创建 `docs/majors/taxonomy/index.md`。
+- [x] `P0` 创建 `docs/majors/taxonomy/index.md`。
 - [x] `P0` 创建 `docs/majors/domains/index.md`。
-- [ ] `P0` 创建 `docs/majors/perspectives/index.md`。
-- [ ] `P0` 创建 `docs/majors/perspectives/how-to-contribute.md`。
-- [ ] `P0` 创建主要学科大类入口：
+- [x] `P0` 创建 `docs/majors/perspectives/index.md`。
+- [x] `P0` 创建 `docs/majors/perspectives/how-to-contribute.md`。
+- [x] `P0` 创建主要学科大类入口：
   - `docs/majors/domains/engineering/index.md`
   - `docs/majors/domains/science/index.md`
   - `docs/majors/domains/medicine/index.md`
@@ -287,7 +287,7 @@
   - `docs/majors/domains/education-sports/index.md`
   - `docs/majors/domains/arts-design/index.md`
   - `docs/majors/domains/interdisciplinary/index.md`
-- [ ] `P0` 创建 EECS 标杆骨架：
+- [x] `P0` 创建 EECS 标杆骨架：
   - `docs/majors/domains/engineering/eecs/index.md`
   - `docs/majors/domains/engineering/eecs/orientation/index.md`
   - `docs/majors/domains/engineering/eecs/programs/index.md`
@@ -296,13 +296,13 @@
   - `docs/majors/domains/engineering/eecs/outcomes/index.md`
   - `docs/majors/domains/engineering/eecs/perspectives/index.md`
   - `docs/majors/domains/engineering/eecs/perspectives/how-to-contribute.md`
-- [ ] `P1` 创建 EECS foundations 子目录：
+- [x] `P1` 创建 EECS foundations 子目录：
   - `mathematics/`
   - `programming/`
   - `computer-systems/`
   - `electronics-signals/`
   - `tools-practices/`
-- [ ] `P1` 创建 EECS fields 子目录：
+- [x] `P1` 创建 EECS fields 子目录：
   - `ai-data-intelligence/`
   - `software-systems/`
   - `security-privacy/`
@@ -314,23 +314,23 @@
 ### 2.6 `universities/`
 
 - [x] `P0` 创建 `docs/universities/methodology/index.md`。
-- [ ] `P0` 创建 `docs/universities/dimensions/index.md`。
+- [x] `P0` 创建 `docs/universities/dimensions/index.md`。
 - [x] `P0` 创建 `docs/universities/regions/index.md`。
 - [x] `P0` 创建 `docs/universities/schools/index.md`。
-- [ ] `P0` 创建 `docs/universities/perspectives/index.md`。
-- [ ] `P0` 创建 `docs/universities/perspectives/how-to-contribute.md`。
-- [ ] `P1` 创建首批学校入口：
+- [x] `P0` 创建 `docs/universities/perspectives/index.md`。
+- [x] `P0` 创建 `docs/universities/perspectives/how-to-contribute.md`。
+- [x] `P1` 创建首批学校入口：
   - `sysu/`
   - `scut/`
   - `jnu/`
   - `scnu/`
   - `gdufs/`
   - `szu/`
-- [ ] `P1` 每个学校入口至少包含：
+- [x] `P1` 每个学校入口至少包含：
   - `index.md`
   - `perspectives/index.md`
   - `perspectives/how-to-contribute.md`
-- [ ] `P1` SYSU 可先做更深样板：
+- [x] `P1` SYSU 可先做更深样板：
   - `dimensions/`
   - `programs/`
   - `admissions-context/`
@@ -338,28 +338,28 @@
 ### 2.7 `campus-life/`
 
 - [x] `P0` 创建 `docs/campus-life/academic-system/index.md`。
-- [ ] `P0` 创建 `docs/campus-life/learning-workflow/index.md`。
+- [x] `P0` 创建 `docs/campus-life/learning-workflow/index.md`。
 - [x] `P0` 创建 `docs/campus-life/opportunities/index.md`。
 - [x] `P0` 创建 `docs/campus-life/people-and-groups/index.md`。
-- [ ] `P0` 创建 `docs/campus-life/wellbeing-and-practical-life/index.md`。
-- [ ] `P0` 创建 `docs/campus-life/failure-and-reorientation/index.md`。
-- [ ] `P1` 不再使用 `study-methods.md`、`social.md`、`money.md` 这类扁平入口作为最终形态。
+- [x] `P0` 创建 `docs/campus-life/wellbeing-and-practical-life/index.md`。
+- [x] `P0` 创建 `docs/campus-life/failure-and-reorientation/index.md`。
+- [x] `P1` 不再使用 `study-methods.md`、`social.md`、`money.md` 这类扁平入口作为最终形态。
 
 ### 2.8 `pathways/`
 
-- [ ] `P0` 创建 `docs/pathways/methodology/index.md`。
+- [x] `P0` 创建 `docs/pathways/methodology/index.md`。
 - [x] `P0` 创建 `docs/pathways/further-study/index.md`。
 - [x] `P0` 创建 `docs/pathways/career/index.md`。
-- [ ] `P0` 创建 `docs/pathways/perspectives/index.md`。
-- [ ] `P0` 创建 `docs/pathways/perspectives/how-to-contribute.md`。
-- [ ] `P1` 创建深造路径：
+- [x] `P0` 创建 `docs/pathways/perspectives/index.md`。
+- [x] `P0` 创建 `docs/pathways/perspectives/how-to-contribute.md`。
+- [x] `P1` 创建深造路径：
   - `choosing-paths/`
   - `recommendation/`
   - `entrance-exam/`
   - `overseas/`
   - `doctoral-paths/`
   - `gap-year/`
-- [ ] `P1` 创建 career 路径：
+- [x] `P1` 创建 career 路径：
   - `orientation/`
   - `internship/`
   - `job-search/`
@@ -367,7 +367,7 @@
   - `interviews/`
   - `industries/`
   - `workplace-transition/`
-- [ ] `P0` 防止 pathways 和 majors/outcomes 重复。
+- [x] `P0` 防止 pathways 和 majors/outcomes 重复。
   - 验收：通用流程在 pathways，专业特殊性在 majors/.../outcomes。
 
 ### 2.9 `cases/`
@@ -376,14 +376,14 @@
 - [x] `P0` 创建 `docs/cases/entries/index.md`。
 - [x] `P0` 创建 `docs/cases/templates/case-template.md`。
 - [x] `P0` 创建 `docs/cases/indexes/index.md`。
-- [ ] `P0` 创建人工索引入口：
+- [x] `P0` 创建人工索引入口：
   - `by-class-year.md`
   - `by-university.md`
   - `by-major.md`
   - `by-pathway.md`
   - `by-destination.md`
   - `by-keyword.md`
-- [ ] `P0` 案例模板包含 frontmatter：
+- [x] `P0` 案例模板包含 frontmatter：
   - `case_id`
   - `case_type`
   - `title`
@@ -398,7 +398,7 @@
   - `keywords`
   - `status`
   - `last_updated`
-- [ ] `P0` 案例模板正文包含：
+- [x] `P0` 案例模板正文包含：
   - 背景
   - 关键选择
   - 时间线
@@ -412,30 +412,30 @@
 ### 2.10 `commons/`
 
 - [x] `P0` 创建 `docs/commons/registries/index.md`。
-- [ ] `P0` 创建注册表：
+- [x] `P0` 创建注册表：
   - `universities.md`
   - `majors.md`
   - `pathways.md`
   - `keywords.md`
 - [x] `P1` 创建 `docs/commons/resources/index.md`。
-- [ ] `P1` 创建 `docs/commons/stories/index.md`。
-- [ ] `P1` 创建 `docs/commons/contributors.md`。
+- [x] `P1` 创建 `docs/commons/stories/index.md`。
+- [x] `P1` 创建 `docs/commons/contributors.md`。
 
 ## Phase 3：模板与投稿说明
 
 ### 3.1 通用模板
 
-- [ ] `P0` 创建 `docs/commons/templates/page-template.md`。
-- [ ] `P0` 创建 `docs/commons/templates/perspective-template.md`。
-- [ ] `P0` 创建 `docs/cases/templates/case-template.md`。
-- [ ] `P0` 模板都包含公开转载告知。
-- [ ] `P0` 模板都包含最后更新时间。
-- [ ] `P0` 模板都说明是否允许匿名。
+- [x] `P0` 创建 `docs/commons/templates/page-template.md`。
+- [x] `P0` 创建 `docs/commons/templates/perspective-template.md`。
+- [x] `P0` 创建 `docs/cases/templates/case-template.md`。
+- [x] `P0` 模板都包含公开转载告知。
+- [x] `P0` 模板都包含最后更新时间。
+- [x] `P0` 模板都说明是否允许匿名。
 
 ### 3.2 `how-to-contribute.md`
 
-- [ ] `P0` 为所有 C 类容器添加 `how-to-contribute.md`。
-- [ ] `P0` 每个 `how-to-contribute.md` 至少包含：
+- [x] `P0` 为所有 C 类容器添加 `how-to-contribute.md`。
+- [x] `P0` 每个 `how-to-contribute.md` 至少包含：
   - 这个目录收什么
   - 不收什么
   - 文件如何命名
@@ -444,23 +444,23 @@
   - 是否需要改 `mkdocs.yml`
   - 公开转载告知
   - 脱敏提醒
-- [ ] `P0` C 类文件命名统一：
+- [x] `P0` C 类文件命名统一：
   - `[year]-[name-or-alias]-[topic].md`
-- [ ] `P0` 如果作者匿名，文件名用 alias，不用真实姓名。
-- [ ] `P1` 给不会 Git 的校友准备“你可以直接发给维护者的材料清单”。
+- [x] `P0` 如果作者匿名，文件名用 alias，不用真实姓名。
+- [x] `P1` 给不会 Git 的校友准备“你可以直接发给维护者的材料清单”。
 
 ### 3.3 首页与贡献入口
 
 - [x] `P0` 重写 `docs/index.md`。
-- [ ] `P0` 首页首屏回答：
+- [x] `P0` 首页首屏回答：
   - 这是什么
   - 给谁看
   - 从哪里开始读
   - 如何贡献
-- [ ] `P0` 首页说明主站和 WPS 指北的关系。
-- [ ] `P0` 首页说明公开转载告知。
-- [ ] `P0` 首页不要做营销落地页。
-- [ ] `P1` 首页提供 3-4 条阅读路线：
+- [x] `P0` 首页说明主站和 WPS 指北的关系。
+- [x] `P0` 首页说明公开转载告知。
+- [x] `P0` 首页不要做营销落地页。
+- [x] `P1` 首页提供 3-4 条阅读路线：
   - 高中生
   - 大一新生
   - 想换专业/方向的人
@@ -471,9 +471,9 @@
 ### 4.1 清理原则
 
 - [x] `P0` 不把旧 `docs/` 当作迁移对象。
-- [ ] `P0` 不建立旧路径映射表。
-- [ ] `P0` 不做旧路径重定向。
-- [ ] `P0` 不因为旧文件存在而保留旧目录结构。
+- [x] `P0` 不建立旧路径映射表。
+- [x] `P0` 不做旧路径重定向。
+- [x] `P0` 不因为旧文件存在而保留旧目录结构。
 - [ ] `P1` 如果后续发现旧文件里有个别可用段落，作为普通内容 PR 手工补入新目录。
 
 ### 4.2 清理验收
@@ -487,24 +487,24 @@
 ### 5.1 手工检查
 
 - [x] `P0` 检查 `mkdocs.yml` 是否只引用新架构路径。
-- [ ] `P0` 检查所有 nav 引用的文件都存在。
-- [ ] `P0` 检查所有一级目录都有 `index.md`。
-- [ ] `P0` 检查所有 C 类容器都有 `how-to-contribute.md`。
-- [ ] `P0` 检查投稿说明是否包含公开转载告知。
-- [ ] `P0` 检查案例模板是否包含匿名、脱敏、转载告知。
-- [ ] `P0` 检查首页没有把公众号写成技术模块。
-- [ ] `P0` 检查敏感内容没有进入公开仓库。
-- [ ] `P0` 检查 `DESIGN.md` 和 `extra.css` 的色彩是否一致。
+- [x] `P0` 检查所有 nav 引用的文件都存在。
+- [x] `P0` 检查所有一级目录都有 `index.md`。
+- [x] `P0` 检查所有 C 类容器都有 `how-to-contribute.md`。
+- [x] `P0` 检查投稿说明是否包含公开转载告知。
+- [x] `P0` 检查案例模板是否包含匿名、脱敏、转载告知。
+- [x] `P0` 检查首页没有把公众号写成技术模块。
+- [x] `P0` 检查敏感内容没有进入公开仓库。
+- [x] `P0` 检查 `DESIGN.md` 和 `extra.css` 的色彩是否一致。
 
 ### 5.2 自动检查第一版
 
 - [x] `P0` 添加 GitHub Actions：`mkdocs build --strict`。
-- [ ] `P0` CI 在 PR 时运行。
-- [ ] `P0` CI 在 main 分支 push 时运行。
-- [ ] `P1` 添加路径命名检查脚本。
+- [x] `P0` CI 在 PR 时运行。
+- [x] `P0` CI 在 main 分支 push 时运行。
+- [x] `P1` 添加路径命名检查脚本。
   - 检查英文小写连字符。
   - 允许 `README.md`、`index.md`、学校缩写、课程代码等例外。
-- [ ] `P1` 添加关键目录检查脚本。
+- [x] `P1` 添加关键目录检查脚本。
   - 检查一级目录 `index.md`。
   - 检查 C 类容器 `how-to-contribute.md`。
 - [ ] `P2` 添加案例 frontmatter 校验。
@@ -527,8 +527,8 @@
 - [x] `P0` 记录线上 URL。
 - [x] `P0` 从手机访问线上 URL。
 - [x] `P0` 从非登录环境访问线上 URL。
-- [ ] `P1` 配置 404 页面。
-- [ ] `P1` 配置 sitemap / robots。
+- [x] `P1` 配置 404 页面。
+- [x] `P1` 配置 sitemap / robots。
 - [ ] `P1` 配置自有域名和 HTTPS。
 
 ### 6.2 上线前验收
@@ -589,7 +589,7 @@
 
 ### 8.2 后续自动化
 
-- [ ] `P2` 实现 `scripts/validate_architecture.py`。
+- [x] `P2` 实现 `scripts/validate_architecture.py`。
 - [ ] `P2` 实现 `scripts/validate_cases.py`。
 - [ ] `P2` 实现 `scripts/generate_case_indexes.py`。
 - [ ] `P2` 实现 `scripts/check_generated.py`。
@@ -602,18 +602,18 @@
 
 - [x] `mkdocs build --strict` 通过。
 - [x] `mkdocs.yml` 主导航全部指向英文路径。
-- [ ] 主导航不引用旧草稿目录。
-- [ ] 八个一级目录都有 `index.md`。
-- [ ] `cases/entries/`、`cases/templates/`、`cases/indexes/` 存在。
-- [ ] 至少一个 `how-to-contribute.md` 是完整模板，不是占位句。
-- [ ] PR 模板存在，并包含公开转载告知。
-- [ ] 案例模板存在，并包含公开转载告知。
-- [ ] `CONTRIBUTING.md` 存在，并包含 commit 规范。
-- [ ] `DESIGN.md` 存在。
+- [x] 主导航不引用旧草稿目录。
+- [x] 八个一级目录都有 `index.md`。
+- [x] `cases/entries/`、`cases/templates/`、`cases/indexes/` 存在。
+- [x] 至少一个 `how-to-contribute.md` 是完整模板，不是占位句。
+- [x] PR 模板存在，并包含公开转载告知。
+- [x] 案例模板存在，并包含公开转载告知。
+- [x] `CONTRIBUTING.md` 存在，并包含 commit 规范。
+- [x] `DESIGN.md` 存在。
 - [x] `docs/stylesheets/extra.css` 存在，并体现暖纸色/墨蓝视觉基调。
-- [ ] 首页说明主站、WPS 指北和公开转载告知。
+- [x] 首页说明主站、WPS 指北和公开转载告知。
 - [ ] 线上静态站可访问。
-- [ ] 移动端可以正常阅读首页和至少一个二级页面。
+- [x] 移动端可以正常阅读首页和至少一个二级页面。
 
 ## 建议 PR 拆分
 

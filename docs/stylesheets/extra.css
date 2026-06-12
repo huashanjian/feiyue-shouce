@@ -566,6 +566,40 @@
   display: block;
 }
 
+.dghs-case-ref {
+  border-block: 1px solid var(--dghs-border);
+  display: grid;
+  gap: 0.55rem;
+  margin: 1.35rem 0;
+  padding: 0.85rem 0;
+}
+
+.dghs-case-ref-title {
+  color: var(--dghs-ink);
+  font-family: "Noto Serif SC", "Source Han Serif SC", serif;
+  font-size: 0.98rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+.dghs-case-ref-meta {
+  color: var(--dghs-stone);
+  font-family: "JetBrains Mono", "Cascadia Code", monospace;
+  font-size: 0.64rem;
+  letter-spacing: 0.08em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.dghs-case-ref p {
+  margin: 0;
+}
+
+.dghs-case-ref-limit {
+  color: var(--dghs-stone);
+  font-size: 0.72rem;
+}
+
 [data-md-color-scheme="slate"] .md-typeset h1,
 [data-md-color-scheme="slate"] .md-typeset h2,
 [data-md-color-scheme="slate"] .md-typeset h3 {
